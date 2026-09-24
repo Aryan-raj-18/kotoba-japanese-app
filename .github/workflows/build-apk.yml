@@ -1,12 +1,11 @@
 name: Build Android APK
 
-# Builds a debug APK of the Kotoba app (Flask, running locally on-device
-# via Chaquopy, shown in a WebView) any time the app or this workflow
-# changes, or on demand from the Actions tab.
+# Builds a debug APK of the Kotoba app whenever the app/workflow changes,
+# or manually from the Actions tab.
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
     paths:
       - 'android/**'
       - 'app.py'
@@ -15,6 +14,7 @@ on:
       - 'data/**'
       - 'sync_android.py'
       - '.github/workflows/build-apk.yml'
+
   pull_request:
     paths:
       - 'android/**'
@@ -24,52 +24,109 @@ on:
       - 'data/**'
       - 'sync_android.py'
       - '.github/workflows/build-apk.yml'
-  workflow_dispatch: {}
+
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+
+      # ---------------------------------------------------------
+      # 1. Checkout repository
+      # ---------------------------------------------------------
       - name: Check out repository
         uses: actions/checkout@v4
 
+      # ---------------------------------------------------------
+      # 2. Python
+      # ---------------------------------------------------------
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # The APK ships its own copy of app.py/templates/static/data under
-      # android/app/src/main/python/. Regenerating it here means an edit
-      # to a template can never silently miss the build.
-      - name: Sync web app into the Android package
+      # ---------------------------------------------------------
+      # 3. Sync Flask/web files into Android project
+      # ---------------------------------------------------------
+      - name: Sync web app into Android package
         run: python sync_android.py
 
+      # ---------------------------------------------------------
+      # 4. Java 17
+      # ---------------------------------------------------------
       - name: Set up JDK 17
         uses: actions/setup-java@v4
         with:
           distribution: temurin
           java-version: '17'
 
-      # No gradlew is committed (Gradle wrapper binaries are the kind of
-      # thing that's easy to get subtly wrong without a real Android
-      # environment to test in) - this installs a pinned Gradle version
-      # directly and adds it to PATH, with build-cache support.
+      # ---------------------------------------------------------
+      # 5. Android SDK
+      #
+      # ubuntu-latest already contains Android SDK and cmdline-tools.
+      # We intentionally DO NOT use android-actions/setup-android@v3
+      # because that action is the step failing while looking for
+      # the obsolete "tools" SDK package.
+      # ---------------------------------------------------------
+      - name: Set Android SDK environment
+        shell: bash
+        run: |
+          echo "ANDROID_HOME=$ANDROID_SDK_ROOT" >> "$GITHUB_ENV"
+          echo "ANDROID_SDK_ROOT=$ANDROID_SDK_ROOT" >> "$GITHUB_ENV"
+          echo "$ANDROID_SDK_ROOT/cmdline-tools/latest/bin" >> "$GITHUB_PATH"
+          echo "$ANDROID_SDK_ROOT/platform-tools" >> "$GITHUB_PATH"
+
+      # ---------------------------------------------------------
+      # 6. Accept Android licenses
+      # ---------------------------------------------------------
+      - name: Accept Android SDK licenses
+        shell: bash
+        run: |
+          yes | sdkmanager --licenses > /dev/null || true
+
+      # ---------------------------------------------------------
+      # 7. Install required Android SDK components
+      # ---------------------------------------------------------
+      - name: Install Android SDK packages
+        shell: bash
+        run: |
+          sdkmanager \
+            "platform-tools" \
+            "platforms;android-34" \
+            "build-tools;34.0.0"
+
+      # ---------------------------------------------------------
+      # 8. Check Android SDK
+      # ---------------------------------------------------------
+      - name: Verify Android SDK
+        shell: bash
+        run: |
+          echo "ANDROID_HOME=$ANDROID_HOME"
+          echo "ANDROID_SDK_ROOT=$ANDROID_SDK_ROOT"
+          sdkmanager --list | head -50
+          adb version
+
+      # ---------------------------------------------------------
+      # 9. Gradle
+      # ---------------------------------------------------------
       - name: Set up Gradle
         uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: '8.9'
 
-      - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
-
-      - name: Install SDK platform & build tools
-        run: sdkmanager --install "platforms;android-34" "build-tools;34.0.0"
-
+      # ---------------------------------------------------------
+      # 10. Build APK
+      # ---------------------------------------------------------
       - name: Build debug APK
         working-directory: android
-        run: gradle :app:assembleDebug --stacktrace
+        run: |
+          gradle :app:assembleDebug --stacktrace
 
+      # ---------------------------------------------------------
+      # 11. Upload APK
+      # ---------------------------------------------------------
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
