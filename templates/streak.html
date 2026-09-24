@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+{% block title %}Dashboard — Kotoba{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="hero-eyebrow">連続 — renzoku, streak</p>
+  <h1>Your Streak</h1>
+  <p class="hero-lede">
+    Every day you finish a Practice round or a Flashcards deck counts.
+    Miss a day and the streak starts over — so try to show up daily,
+    even for one quick round.
+  </p>
+</section>
+
+<section class="streak-stage">
+  <div class="streak-flame-big" id="streak-flame-big">🔥</div>
+  <div class="streak-current" id="streak-current-num">0</div>
+  <p class="streak-current-label">day streak</p>
+
+  <div class="streak-stats-row">
+    <div class="streak-stat">
+      <span class="streak-stat-num" id="streak-longest">0</span>
+      <span class="streak-stat-label">longest streak</span>
+    </div>
+    <div class="streak-stat">
+      <span class="streak-stat-num" id="streak-total">0</span>
+      <span class="streak-stat-label">total days active</span>
+    </div>
+  </div>
+
+  <h2 class="streak-cal-heading">Last 30 days</h2>
+  <div class="streak-calendar" id="streak-calendar"></div>
+
+  <p class="streak-empty-note" id="streak-empty-note" hidden>
+    No activity logged yet — finish a Practice round or a Flashcards
+    deck to start your streak today.
+  </p>
+
+  <h2 class="streak-cal-heading">Your progress</h2>
+  <p class="progress-overall">
+    <strong>{{ progress.known }}</strong> / {{ progress.total }} cards known
+    across every deck ({{ progress.pct }}%)
+  </p>
+  <div class="progress-meter">
+    {% for d in progress.decks %}
+    <div class="progress-row">
+      <div class="progress-row-head">
+        <span class="progress-row-label">{{ d.label }}</span>
+        <span class="progress-row-count">{{ d.known }} / {{ d.total }}</span>
+      </div>
+      <div class="progress-track">
+        <div class="progress-fill" style="width: {{ d.pct }}%"></div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <p class="progress-note">
+    Marked automatically whenever you tap "Knew it" on a
+    <a href="{{ url_for('flashcards') }}">flashcards</a> deck.
+  </p>
+
+  {% if current_user %}
+  <p class="streak-account-note">Signed in as <strong>{{ current_user.username }}</strong> — this streak is saved to your account.</p>
+  {% else %}
+  <p class="streak-account-note">
+    Not signed in — this streak is tied to this device only.
+    <a href="{{ url_for('signup') }}">Create an account</a> to save it to a username instead.
+  </p>
+  {% endif %}
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/streak.js') }}"></script>
+{% endblock %}

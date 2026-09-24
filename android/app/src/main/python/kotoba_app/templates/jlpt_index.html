@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}JLPT N5-N1 — Kotoba{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <p class="hero-eyebrow">日本語能力試験 — JLPT levels</p>
+  <h1>Kanji by JLPT level</h1>
+  <p class="hero-lede">The same kanji, organized the way the Japanese-Language Proficiency Test groups them — N5 (beginner) through N1 (advanced). Each level has its own meaning &amp; reading list plus a 4-option practice quiz with easy/medium/hard tiers.</p>
+</section>
+
+<div class="jlpt-level-grid">
+  {% for l in levels %}
+  <a class="jlpt-level-card jlpt-badge-{{ l.level }}" href="{{ url_for('jlpt_level', level=l.level) }}">
+    <span class="jlpt-level-name">{{ l.level }}</span>
+    <span class="jlpt-level-label">{{ l.description }}</span>
+    <span class="jlpt-level-count">{{ l.count }} kanji</span>
+  </a>
+  {% endfor %}
+</div>
+{% endblock %}

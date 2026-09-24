@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}Flashcards — Kotoba{% endblock %}
+{% block content %}
+<section class="page-head">
+  <p class="hero-eyebrow">カード — flashcards</p>
+  <h1>Flashcards</h1>
+  <p class="hero-lede">Pick a deck, flip the card, and mark what you knew. Your score shows at the end.</p>
+</section>
+
+<section class="practice-stage">
+  <div class="stage-panel" id="fc-intro">
+    <div class="level-picker">
+      <h3>Deck</h3>
+      <div class="level-options" id="deck-options">
+        <button type="button" class="mode-sel active" data-deck="kanji">Kanji</button>
+        <button type="button" class="mode-sel" data-deck="vocab">Vocabulary</button>
+        <button type="button" class="mode-sel" data-deck="verbs">Verbs</button>
+        <button type="button" class="mode-sel" data-deck="hiragana">Hiragana</button>
+        <button type="button" class="mode-sel" data-deck="katakana">Katakana</button>
+      </div>
+      <h3>Difficulty</h3>
+      <div class="level-options" id="fc-level-options">
+        <button type="button" class="level-btn active" data-level="mixed">Mixed</button>
+        <button type="button" class="level-btn" data-level="easy">Easy</button>
+        <button type="button" class="level-btn" data-level="medium">Medium</button>
+        <button type="button" class="level-btn" data-level="hard">Hard</button>
+      </div>
+      <h3>Cards</h3>
+      <div class="count-options" id="fc-count-options">
+        <button type="button" class="count-btn active" data-count="20">20</button>
+        <button type="button" class="count-btn" data-count="40">40</button>
+        <button type="button" class="count-btn" data-count="60">60</button>
+      </div>
+    </div>
+    <button type="button" class="btn-primary" id="fc-start">Start</button>
+  </div>
+
+  <div class="stage-panel" id="fc-run" hidden>
+    <p class="stage-label" id="fc-progress"></p>
+    <div class="flashcard" id="fc-card">
+      <div class="flash-face" id="fc-face"></div>
+    </div>
+    <p class="flash-hint">Tap the card to flip it.</p>
+    <div class="stage-controls">
+      <button type="button" class="btn-ghost" id="fc-again">Didn't know</button>
+      <button type="button" class="btn-primary" id="fc-knew">Knew it</button>
+    </div>
+  </div>
+
+  <div class="stage-panel" id="fc-done" hidden>
+    <p class="stage-label">Deck complete</p>
+    <p class="done-score" id="fc-score"></p>
+    <button type="button" class="btn-primary" id="fc-restart">Another deck</button>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/flashcards.js') }}"></script>
+{% endblock %}

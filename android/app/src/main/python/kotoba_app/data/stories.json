@@ -1,0 +1,796 @@
+[
+ {
+  "id": "neko-to-ame",
+  "title_jp": "猫と雨",
+  "title_en": "The Cat and the Rain",
+  "level": "easy",
+  "summary": "A small cat gets caught in the rain and finds an unexpected friend.",
+  "sentences": [
+   {
+    "kanji": "小さい猫がいました。",
+    "hiragana": "ちいさいねこがいました。",
+    "romaji": "Chiisai neko ga imashita.",
+    "english": "There was a small cat."
+   },
+   {
+    "kanji": "猫は、公園にいました。",
+    "hiragana": "ねこは、こうえんにいました。",
+    "romaji": "Neko wa, kōen ni imashita.",
+    "english": "The cat was in the park."
+   },
+   {
+    "kanji": "午後、雨が降りました。",
+    "hiragana": "ごご、あめがふりました。",
+    "romaji": "Gogo, ame ga furimashita.",
+    "english": "In the afternoon, it rained."
+   },
+   {
+    "kanji": "猫は、木の下に行きました。",
+    "hiragana": "ねこは、きのしたにいきました。",
+    "romaji": "Neko wa, ki no shita ni ikimashita.",
+    "english": "The cat went under a tree."
+   },
+   {
+    "kanji": "でも、木の下も寒かったです。",
+    "hiragana": "でも、きのしたもさむかったです。",
+    "romaji": "Demo, ki no shita mo samukatta desu.",
+    "english": "But it was cold under the tree too."
+   },
+   {
+    "kanji": "女の子が、公園に来ました。",
+    "hiragana": "おんなのこが、こうえんにきました。",
+    "romaji": "Onna no ko ga, kōen ni kimashita.",
+    "english": "A girl came to the park."
+   },
+   {
+    "kanji": "女の子は、傘を持っていました。",
+    "hiragana": "おんなのこは、かさをもっていました。",
+    "romaji": "Onna no ko wa, kasa o motte imashita.",
+    "english": "The girl was holding an umbrella."
+   },
+   {
+    "kanji": "「猫さん、寒いですか？」",
+    "hiragana": "「ねこさん、さむいですか？」",
+    "romaji": "\"Neko-san, samui desu ka?\"",
+    "english": "\"Cat, are you cold?\""
+   },
+   {
+    "kanji": "女の子は、猫に傘をあげました。",
+    "hiragana": "おんなのこは、ねこにかさをあげました。",
+    "romaji": "Onna no ko wa, neko ni kasa o agemashita.",
+    "english": "The girl gave the umbrella to the cat."
+   },
+   {
+    "kanji": "猫は、「にゃあ」と言いました。",
+    "hiragana": "ねこは、「にゃあ」といいました。",
+    "romaji": "Neko wa, \"nyaa\" to iimashita.",
+    "english": "The cat said \"meow.\""
+   },
+   {
+    "kanji": "二人は、一緒に家へ帰りました。",
+    "hiragana": "ふたりは、いっしょにいえへかえりました。",
+    "romaji": "Futari wa, issho ni ie e kaerimashita.",
+    "english": "The two of them went home together."
+   }
+  ],
+  "vocab": [
+   {
+    "word": "猫",
+    "reading": "ねこ",
+    "romaji": "neko",
+    "meaning": "cat"
+   },
+   {
+    "word": "公園",
+    "reading": "こうえん",
+    "romaji": "kōen",
+    "meaning": "park"
+   },
+   {
+    "word": "雨",
+    "reading": "あめ",
+    "romaji": "ame",
+    "meaning": "rain"
+   },
+   {
+    "word": "降る",
+    "reading": "ふる",
+    "romaji": "furu",
+    "meaning": "to fall (rain)"
+   },
+   {
+    "word": "寒い",
+    "reading": "さむい",
+    "romaji": "samui",
+    "meaning": "cold"
+   },
+   {
+    "word": "傘",
+    "reading": "かさ",
+    "romaji": "kasa",
+    "meaning": "umbrella"
+   },
+   {
+    "word": "あげる",
+    "reading": "あげる",
+    "romaji": "ageru",
+    "meaning": "to give"
+   }
+  ],
+  "questions": [
+   {
+    "q": "猫は、どこにいましたか。",
+    "q_en": "Where was the cat?",
+    "options": [
+     "公園",
+     "学校",
+     "駅"
+    ],
+    "answer": "公園",
+    "explanation": "The second sentence says 猫は、公園にいました (the cat was in the park)."
+   },
+   {
+    "q": "午後、何が降りましたか。",
+    "q_en": "What fell in the afternoon?",
+    "options": [
+     "雪",
+     "雨",
+     "花"
+    ],
+    "answer": "雨",
+    "explanation": "午後、雨が降りました — 降る is the verb used for rain and snow falling."
+   },
+   {
+    "q": "女の子は、猫に何をあげましたか。",
+    "q_en": "What did the girl give the cat?",
+    "options": [
+     "ご飯",
+     "傘",
+     "お金"
+    ],
+    "answer": "傘",
+    "explanation": "女の子は、猫に傘をあげました. あげる means to give (from the speaker's side outward)."
+   },
+   {
+    "q": "最後に、猫と女の子はどうしましたか。",
+    "q_en": "What did the cat and girl do at the end?",
+    "options": [
+     "公園で寝ました",
+     "一緒に家へ帰りました",
+     "さようならを言いました"
+    ],
+    "answer": "一緒に家へ帰りました",
+    "explanation": "二人は、一緒に家へ帰りました — 一緒に means together."
+   }
+  ],
+  "explanation": {
+   "story": "A small cat is alone in a park when the afternoon rain starts. It tries to shelter under a tree, but it's still cold. A girl with an umbrella notices the cat, asks if it's cold, and gives it her umbrella. The cat answers the only way it can — \"meow\" — and the two go home together. It's a small story about noticing someone who needs help.",
+   "grammar": [
+    "〜がいました / 〜がありました — \"there was.\" いる is for living things (the cat), ある for objects.",
+    "〜に行きました / 〜へ帰りました — に and へ both mark a destination. へ leans slightly more toward \"heading toward.\"",
+    "〜は〜が降りました — 降る (to fall) is the standard verb for rain and snow, not 落ちる.",
+    "い-adjective past: 寒い → 寒かったです (it was cold). Note it is NOT 寒いでした.",
+    "〜ています — 持っていました shows an ongoing state: she was (in the state of) holding an umbrella.",
+    "〜と言いました — と marks quoted speech, placed directly after the quote."
+   ],
+   "culture": "Handing your umbrella to someone else in the rain is a common small kindness in Japan, where a cheap plastic umbrella (ビニール傘) is sold at every convenience store. Stray and community cats in neighbourhood parks are also a familiar sight."
+  }
+ },
+ {
+  "id": "wasureta-bentou",
+  "title_jp": "忘れたお弁当",
+  "title_en": "The Forgotten Lunch Box",
+  "level": "easy",
+  "summary": "A student forgets his lunch — and learns his friend planned ahead.",
+  "sentences": [
+   {
+    "kanji": "ケンは、学生です。",
+    "hiragana": "ケンは、がくせいです。",
+    "romaji": "Ken wa, gakusei desu.",
+    "english": "Ken is a student."
+   },
+   {
+    "kanji": "毎朝、七時に起きます。",
+    "hiragana": "まいあさ、しちじにおきます。",
+    "romaji": "Maiasa, shichiji ni okimasu.",
+    "english": "Every morning, he gets up at seven."
+   },
+   {
+    "kanji": "今日は、八時に起きました。",
+    "hiragana": "きょうは、はちじにおきました。",
+    "romaji": "Kyō wa, hachiji ni okimashita.",
+    "english": "Today, he got up at eight."
+   },
+   {
+    "kanji": "ケンは、急いで学校へ行きました。",
+    "hiragana": "ケンは、いそいでがっこうへいきました。",
+    "romaji": "Ken wa, isoide gakkō e ikimashita.",
+    "english": "Ken hurried to school."
+   },
+   {
+    "kanji": "お昼の時間になりました。",
+    "hiragana": "おひるのじかんになりました。",
+    "romaji": "Ohiru no jikan ni narimashita.",
+    "english": "It became lunchtime."
+   },
+   {
+    "kanji": "「あ！お弁当がありません」",
+    "hiragana": "「あ！おべんとうがありません」",
+    "romaji": "\"A! Obentō ga arimasen.\"",
+    "english": "\"Ah! I don't have my lunch box.\""
+   },
+   {
+    "kanji": "ケンは、家にお弁当を忘れました。",
+    "hiragana": "ケンは、いえにおべんとうをわすれました。",
+    "romaji": "Ken wa, ie ni obentō o wasuremashita.",
+    "english": "Ken forgot his lunch box at home."
+   },
+   {
+    "kanji": "友達のユミが、笑いました。",
+    "hiragana": "ともだちのユミが、わらいました。",
+    "romaji": "Tomodachi no Yumi ga, waraimashita.",
+    "english": "His friend Yumi laughed."
+   },
+   {
+    "kanji": "「はい、どうぞ」",
+    "hiragana": "「はい、どうぞ」",
+    "romaji": "\"Hai, dōzo.\"",
+    "english": "\"Here you go.\""
+   },
+   {
+    "kanji": "ユミは、おにぎりを二つ持っていました。",
+    "hiragana": "ユミは、おにぎりをふたつもっていました。",
+    "romaji": "Yumi wa, onigiri o futatsu motte imashita.",
+    "english": "Yumi had two rice balls."
+   },
+   {
+    "kanji": "「ケンくんは、いつも忘れますから」",
+    "hiragana": "「ケンくんは、いつもわすれますから」",
+    "romaji": "\"Ken-kun wa, itsumo wasuremasu kara.\"",
+    "english": "\"Because you always forget.\""
+   },
+   {
+    "kanji": "ケンは、少し恥ずかしかったです。",
+    "hiragana": "ケンは、すこしはずかしかったです。",
+    "romaji": "Ken wa, sukoshi hazukashikatta desu.",
+    "english": "Ken was a little embarrassed."
+   },
+   {
+    "kanji": "でも、おにぎりは、おいしかったです。",
+    "hiragana": "でも、おにぎりは、おいしかったです。",
+    "romaji": "Demo, onigiri wa, oishikatta desu.",
+    "english": "But the rice balls were delicious."
+   }
+  ],
+  "vocab": [
+   {
+    "word": "学生",
+    "reading": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "student"
+   },
+   {
+    "word": "起きる",
+    "reading": "おきる",
+    "romaji": "okiru",
+    "meaning": "to get up"
+   },
+   {
+    "word": "急ぐ",
+    "reading": "いそぐ",
+    "romaji": "isogu",
+    "meaning": "to hurry"
+   },
+   {
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "romaji": "obentō",
+    "meaning": "boxed lunch"
+   },
+   {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "romaji": "wasureru",
+    "meaning": "to forget"
+   },
+   {
+    "word": "おにぎり",
+    "reading": "おにぎり",
+    "romaji": "onigiri",
+    "meaning": "rice ball"
+   },
+   {
+    "word": "恥ずかしい",
+    "reading": "はずかしい",
+    "romaji": "hazukashii",
+    "meaning": "embarrassed"
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンは、今日何時に起きましたか。",
+    "q_en": "What time did Ken get up today?",
+    "options": [
+     "七時",
+     "八時",
+     "九時"
+    ],
+    "answer": "八時",
+    "explanation": "毎朝 he gets up at 七時, but 今日は、八時に起きました — today was the exception."
+   },
+   {
+    "q": "ケンは、何を忘れましたか。",
+    "q_en": "What did Ken forget?",
+    "options": [
+     "お弁当",
+     "教科書",
+     "傘"
+    ],
+    "answer": "お弁当",
+    "explanation": "ケンは、家にお弁当を忘れました."
+   },
+   {
+    "q": "ユミは、おにぎりをいくつ持っていましたか。",
+    "q_en": "How many rice balls did Yumi have?",
+    "options": [
+     "一つ",
+     "二つ",
+     "三つ"
+    ],
+    "answer": "二つ",
+    "explanation": "おにぎりを二つ持っていました — 二つ (futatsu) is the general counter for two things."
+   },
+   {
+    "q": "どうして、ユミはおにぎりを二つ持っていましたか。",
+    "q_en": "Why did Yumi have two rice balls?",
+    "options": [
+     "お腹がすきましたから",
+     "ケンがいつも忘れますから",
+     "おにぎりが好きですから"
+    ],
+    "answer": "ケンがいつも忘れますから",
+    "explanation": "She says 「ケンくんは、いつも忘れますから」 — she had already planned for it."
+   }
+  ],
+  "explanation": {
+   "story": "Ken oversleeps by an hour and rushes to school. At lunchtime he realises he's left his bento at home. His friend Yumi laughs, then hands him one of the two rice balls she's carrying — she brought a spare because he always forgets. He's embarrassed, but the food is good. The joke is that Yumi knows Ken better than he knows himself.",
+   "grammar": [
+    "Time + に — 七時に起きます. に is required with specific clock times, but NOT with 今日, 毎朝, or あした.",
+    "〜て form for sequence: 急いで学校へ行きました — \"hurried and went,\" linking two actions.",
+    "〜になりました — \"became.\" お昼の時間になりました = it became lunchtime.",
+    "〜から at the end of a sentence gives the reason, and comes AFTER the reason, unlike English \"because.\"",
+    "Counters: 二つ (futatsu) is the general counter. Rice balls can also take 個 (ko).",
+    "い-adjective past again: 恥ずかしい → 恥ずかしかったです, おいしい → おいしかったです."
+   ],
+   "culture": "A 弁当 (bento) is a packed lunch, often made at home in the morning. おにぎり — rice shaped by hand, usually with a filling and a strip of nori — is the most portable Japanese food there is, and the easiest thing to pack a spare of."
+  }
+ },
+ {
+  "id": "yama-no-tegami",
+  "title_jp": "山の手紙",
+  "title_en": "The Letter on the Mountain",
+  "level": "medium",
+  "summary": "An old woman climbs a mountain every year for a reason no one knows.",
+  "sentences": [
+   {
+    "kanji": "小さい村に、おばあさんが住んでいました。",
+    "hiragana": "ちいさいむらに、おばあさんがすんでいました。",
+    "romaji": "Chiisai mura ni, obāsan ga sunde imashita.",
+    "english": "An old woman lived in a small village."
+   },
+   {
+    "kanji": "毎年、春に、おばあさんは山に登りました。",
+    "hiragana": "まいとし、はるに、おばあさんはやまにのぼりました。",
+    "romaji": "Maitoshi, haru ni, obāsan wa yama ni noborimashita.",
+    "english": "Every year in spring, the old woman climbed the mountain."
+   },
+   {
+    "kanji": "村の人は、聞きました。",
+    "hiragana": "むらのひとは、ききました。",
+    "romaji": "Mura no hito wa, kikimashita.",
+    "english": "The village people asked her:"
+   },
+   {
+    "kanji": "「どうして、毎年山に登りますか」",
+    "hiragana": "「どうして、まいとしやまにのぼりますか」",
+    "romaji": "\"Dōshite, maitoshi yama ni noborimasu ka?\"",
+    "english": "\"Why do you climb the mountain every year?\""
+   },
+   {
+    "kanji": "おばあさんは、答えませんでした。",
+    "hiragana": "おばあさんは、こたえませんでした。",
+    "romaji": "Obāsan wa, kotaemasen deshita.",
+    "english": "The old woman didn't answer."
+   },
+   {
+    "kanji": "ある春、おばあさんは病気になりました。",
+    "hiragana": "あるはる、おばあさんはびょうきになりました。",
+    "romaji": "Aru haru, obāsan wa byōki ni narimashita.",
+    "english": "One spring, the old woman became ill."
+   },
+   {
+    "kanji": "「山に登りたいです」と言いました。",
+    "hiragana": "「やまにのぼりたいです」といいました。",
+    "romaji": "\"Yama ni noboritai desu\" to iimashita.",
+    "english": "\"I want to climb the mountain,\" she said."
+   },
+   {
+    "kanji": "村の若い男が、一緒に行きました。",
+    "hiragana": "むらのわかいおとこが、いっしょにいきました。",
+    "romaji": "Mura no wakai otoko ga, issho ni ikimashita.",
+    "english": "A young man from the village went with her."
+   },
+   {
+    "kanji": "山の上に、古い木がありました。",
+    "hiragana": "やまのうえに、ふるいきがありました。",
+    "romaji": "Yama no ue ni, furui ki ga arimashita.",
+    "english": "At the top of the mountain, there was an old tree."
+   },
+   {
+    "kanji": "木の下に、小さい箱がありました。",
+    "hiragana": "きのしたに、ちいさいはこがありました。",
+    "romaji": "Ki no shita ni, chiisai hako ga arimashita.",
+    "english": "Under the tree, there was a small box."
+   },
+   {
+    "kanji": "箱の中に、たくさんの手紙がありました。",
+    "hiragana": "はこのなかに、たくさんのてがみがありました。",
+    "romaji": "Hako no naka ni, takusan no tegami ga arimashita.",
+    "english": "Inside the box were many letters."
+   },
+   {
+    "kanji": "「六十年、毎年書きました」",
+    "hiragana": "「ろくじゅうねん、まいとしかきました」",
+    "romaji": "\"Rokujū nen, maitoshi kakimashita.\"",
+    "english": "\"For sixty years, I wrote one every year.\""
+   },
+   {
+    "kanji": "「夫は、戦争で帰りませんでした」",
+    "hiragana": "「おっとは、せんそうでかえりませんでした」",
+    "romaji": "\"Otto wa, sensō de kaerimasen deshita.\"",
+    "english": "\"My husband never came back from the war.\""
+   },
+   {
+    "kanji": "若い男は、何も言いませんでした。",
+    "hiragana": "わかいおとこは、なにもいいませんでした。",
+    "romaji": "Wakai otoko wa, nani mo iimasen deshita.",
+    "english": "The young man said nothing."
+   },
+   {
+    "kanji": "次の春、男が一人で山に登りました。",
+    "hiragana": "つぎのはる、おとこがひとりでやまにのぼりました。",
+    "romaji": "Tsugi no haru, otoko ga hitori de yama ni noborimashita.",
+    "english": "The next spring, the man climbed the mountain alone."
+   },
+   {
+    "kanji": "男は、箱に手紙を入れました。",
+    "hiragana": "おとこは、はこにてがみをいれました。",
+    "romaji": "Otoko wa, hako ni tegami o iremashita.",
+    "english": "He put a letter into the box."
+   }
+  ],
+  "vocab": [
+   {
+    "word": "村",
+    "reading": "むら",
+    "romaji": "mura",
+    "meaning": "village"
+   },
+   {
+    "word": "住む",
+    "reading": "すむ",
+    "romaji": "sumu",
+    "meaning": "to live, to reside"
+   },
+   {
+    "word": "毎年",
+    "reading": "まいとし",
+    "romaji": "maitoshi",
+    "meaning": "every year"
+   },
+   {
+    "word": "登る",
+    "reading": "のぼる",
+    "romaji": "noboru",
+    "meaning": "to climb"
+   },
+   {
+    "word": "病気",
+    "reading": "びょうき",
+    "romaji": "byōki",
+    "meaning": "illness"
+   },
+   {
+    "word": "箱",
+    "reading": "はこ",
+    "romaji": "hako",
+    "meaning": "box"
+   },
+   {
+    "word": "手紙",
+    "reading": "てがみ",
+    "romaji": "tegami",
+    "meaning": "letter"
+   },
+   {
+    "word": "夫",
+    "reading": "おっと",
+    "romaji": "otto",
+    "meaning": "husband"
+   },
+   {
+    "word": "戦争",
+    "reading": "せんそう",
+    "romaji": "sensō",
+    "meaning": "war"
+   }
+  ],
+  "questions": [
+   {
+    "q": "おばあさんは、いつ山に登りましたか。",
+    "q_en": "When did the old woman climb the mountain?",
+    "options": [
+     "毎年、春に",
+     "毎月",
+     "毎日"
+    ],
+    "answer": "毎年、春に",
+    "explanation": "毎年、春に、おばあさんは山に登りました — once a year, in spring."
+   },
+   {
+    "q": "箱の中に、何がありましたか。",
+    "q_en": "What was inside the box?",
+    "options": [
+     "お金",
+     "たくさんの手紙",
+     "写真"
+    ],
+    "answer": "たくさんの手紙",
+    "explanation": "箱の中に、たくさんの手紙がありました — sixty years of letters, one per year."
+   },
+   {
+    "q": "どうして、おばあさんは手紙を書きましたか。",
+    "q_en": "Why did the old woman write the letters?",
+    "options": [
+     "夫が戦争で帰りませんでしたから",
+     "村の人が好きでしたから",
+     "山が好きでしたから"
+    ],
+    "answer": "夫が戦争で帰りませんでしたから",
+    "explanation": "She explains 「夫は、戦争で帰りませんでした」 — the letters were for a husband who never returned."
+   },
+   {
+    "q": "次の春、男は何をしましたか。",
+    "q_en": "What did the man do the next spring?",
+    "options": [
+     "村を出ました",
+     "箱に手紙を入れました",
+     "木を切りました"
+    ],
+    "answer": "箱に手紙を入れました",
+    "explanation": "男は、箱に手紙を入れました — he continued her tradition after she was gone."
+   }
+  ],
+  "explanation": {
+   "story": "For sixty years an old woman climbs the same mountain each spring and never explains why. When illness makes the climb impossible alone, a young villager goes with her, and at the summit he finds a box of letters under an old tree — one for every year, written to a husband who never returned from the war. She never got an answer, but she never stopped writing. The following spring, the young man makes the climb himself and adds a letter of his own. The story never says whether it's addressed to her or to her husband, and that ambiguity is the point: grief gets passed on, but so does the act of remembering.",
+   "grammar": [
+    "〜ています for ongoing states: 住んでいました = \"was living\" (a continuing state, not a one-time action).",
+    "〜たいです — 登りたいです = \"I want to climb.\" Attach たい to the verb stem (登り + たい).",
+    "〜になりました — 病気になりました = \"became ill.\" Same pattern as お昼の時間になりました.",
+    "Negative past polite: 答えませんでした, 帰りませんでした, 言いませんでした.",
+    "何も + negative — 何も言いませんでした = \"said nothing.\" 何も always pairs with a negative verb.",
+    "一人で — で here marks the manner/condition: \"alone,\" \"by oneself.\"",
+    "で marking cause: 戦争で帰りませんでした — \"didn't return because of / due to the war.\""
+   ],
+   "culture": "Many Japanese families lost men in the Second World War whose remains were never returned, leaving graves empty and deaths without a date. Private rituals of remembrance — a spot on a mountain, an annual visit, letters that will never be read — are a quiet and very real part of how that loss has been carried."
+  }
+ },
+ {
+  "id": "eki-no-inu",
+  "title_jp": "駅の犬",
+  "title_en": "The Dog at the Station",
+  "level": "medium",
+  "summary": "A dog waits at a station every evening, and the station staff slowly learn why.",
+  "sentences": [
+   {
+    "kanji": "駅の前に、犬がいました。",
+    "hiragana": "えきのまえに、いぬがいました。",
+    "romaji": "Eki no mae ni, inu ga imashita.",
+    "english": "There was a dog in front of the station."
+   },
+   {
+    "kanji": "毎日、夕方五時に来ました。",
+    "hiragana": "まいにち、ゆうがたごじにきました。",
+    "romaji": "Mainichi, yūgata goji ni kimashita.",
+    "english": "Every day, it came at five in the evening."
+   },
+   {
+    "kanji": "そして、七時まで待ちました。",
+    "hiragana": "そして、しちじまでまちました。",
+    "romaji": "Soshite, shichiji made machimashita.",
+    "english": "And it waited until seven."
+   },
+   {
+    "kanji": "駅員は、犬に名前をつけました。",
+    "hiragana": "えきいんは、いぬになまえをつけました。",
+    "romaji": "Ekiin wa, inu ni namae o tsukemashita.",
+    "english": "The station staff gave the dog a name."
+   },
+   {
+    "kanji": "「五時くん」です。",
+    "hiragana": "「ごじくん」です。",
+    "romaji": "\"Goji-kun\" desu.",
+    "english": "\"Mr. Five O'Clock.\""
+   },
+   {
+    "kanji": "冬になりました。とても寒かったです。",
+    "hiragana": "ふゆになりました。とてもさむかったです。",
+    "romaji": "Fuyu ni narimashita. Totemo samukatta desu.",
+    "english": "Winter came. It was very cold."
+   },
+   {
+    "kanji": "でも、犬は毎日来ました。",
+    "hiragana": "でも、いぬはまいにちきました。",
+    "romaji": "Demo, inu wa mainichi kimashita.",
+    "english": "But the dog came every day."
+   },
+   {
+    "kanji": "ある日、おじいさんが駅に来ました。",
+    "hiragana": "あるひ、おじいさんがえきにきました。",
+    "romaji": "Aru hi, ojīsan ga eki ni kimashita.",
+    "english": "One day, an old man came to the station."
+   },
+   {
+    "kanji": "おじいさんは、泣きました。",
+    "hiragana": "おじいさんは、なきました。",
+    "romaji": "Ojīsan wa, nakimashita.",
+    "english": "The old man cried."
+   },
+   {
+    "kanji": "「この犬は、私の息子の犬です」",
+    "hiragana": "「このいぬは、わたしのむすこのいぬです」",
+    "romaji": "\"Kono inu wa, watashi no musuko no inu desu.\"",
+    "english": "\"This dog is my son's dog.\""
+   },
+   {
+    "kanji": "「息子は、去年、事故で亡くなりました」",
+    "hiragana": "「むすこは、きょねん、じこでなくなりました」",
+    "romaji": "\"Musuko wa, kyonen, jiko de nakunarimashita.\"",
+    "english": "\"My son died in an accident last year.\""
+   },
+   {
+    "kanji": "「毎日、五時の電車で帰りました」",
+    "hiragana": "「まいにち、ごじのでんしゃでかえりました」",
+    "romaji": "\"Mainichi, goji no densha de kaerimashita.\"",
+    "english": "\"He came home on the five o'clock train every day.\""
+   },
+   {
+    "kanji": "駅員は、何も言えませんでした。",
+    "hiragana": "えきいんは、なにもいえませんでした。",
+    "romaji": "Ekiin wa, nani mo iemasen deshita.",
+    "english": "The station staff couldn't say anything."
+   },
+   {
+    "kanji": "今、犬はおじいさんの家にいます。",
+    "hiragana": "いま、いぬはおじいさんのいえにいます。",
+    "romaji": "Ima, inu wa ojīsan no ie ni imasu.",
+    "english": "Now, the dog lives at the old man's house."
+   },
+   {
+    "kanji": "でも、夕方五時に、二人は駅へ行きます。",
+    "hiragana": "でも、ゆうがたごじに、ふたりはえきへいきます。",
+    "romaji": "Demo, yūgata goji ni, futari wa eki e ikimasu.",
+    "english": "But at five in the evening, the two of them go to the station."
+   }
+  ],
+  "vocab": [
+   {
+    "word": "駅員",
+    "reading": "えきいん",
+    "romaji": "ekiin",
+    "meaning": "station staff"
+   },
+   {
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "romaji": "yūgata",
+    "meaning": "evening"
+   },
+   {
+    "word": "待つ",
+    "reading": "まつ",
+    "romaji": "matsu",
+    "meaning": "to wait"
+   },
+   {
+    "word": "名前をつける",
+    "reading": "なまえをつける",
+    "romaji": "namae o tsukeru",
+    "meaning": "to give a name"
+   },
+   {
+    "word": "息子",
+    "reading": "むすこ",
+    "romaji": "musuko",
+    "meaning": "son"
+   },
+   {
+    "word": "事故",
+    "reading": "じこ",
+    "romaji": "jiko",
+    "meaning": "accident"
+   },
+   {
+    "word": "亡くなる",
+    "reading": "なくなる",
+    "romaji": "nakunaru",
+    "meaning": "to pass away"
+   },
+   {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "train"
+   }
+  ],
+  "questions": [
+   {
+    "q": "犬は、何時に駅へ来ましたか。",
+    "q_en": "What time did the dog come to the station?",
+    "options": [
+     "五時",
+     "七時",
+     "九時"
+    ],
+    "answer": "五時",
+    "explanation": "毎日、夕方五時に来ました — and it waited until 七時."
+   },
+   {
+    "q": "駅員は、犬に何をしましたか。",
+    "q_en": "What did the station staff do for the dog?",
+    "options": [
+     "名前をつけました",
+     "家へ連れて行きました",
+     "何もしませんでした"
+    ],
+    "answer": "名前をつけました",
+    "explanation": "駅員は、犬に名前をつけました — they named it 五時くん."
+   },
+   {
+    "q": "おじいさんの息子は、どうなりましたか。",
+    "q_en": "What happened to the old man's son?",
+    "options": [
+     "遠い町へ行きました",
+     "去年、事故で亡くなりました",
+     "病気になりました"
+    ],
+    "answer": "去年、事故で亡くなりました",
+    "explanation": "「息子は、去年、事故で亡くなりました」 — the dog had been waiting for someone who would not arrive."
+   },
+   {
+    "q": "今、犬はどこにいますか。",
+    "q_en": "Where does the dog live now?",
+    "options": [
+     "駅",
+     "おじいさんの家",
+     "公園"
+    ],
+    "answer": "おじいさんの家",
+    "explanation": "今、犬はおじいさんの家にいます — but they still go to the station together at five."
+   }
+  ],
+  "explanation": {
+   "story": "A dog appears outside a station every evening at five and waits until seven. The staff grow fond of it and nickname it 五時くん. It keeps coming all winter. Then an old man arrives, sees the dog, and breaks down: it belonged to his son, who died in an accident the year before and who used to come home on the five o'clock train. The dog has been meeting a train that no longer brings anyone. The ending is deliberately gentle rather than sad — the dog now lives with the grandfather, but the two of them still walk to the station together at five. The waiting hasn't stopped; it's just no longer done alone.",
+   "grammar": [
+    "〜から〜まで — 五時 to 七時. まで marks the end point: 七時まで待ちました = \"waited until seven.\"",
+    "〜に〜をつけました — 犬に名前をつけました. に marks the recipient of the naming.",
+    "〜になりました with a season: 冬になりました = \"winter came / it became winter.\"",
+    "で marking cause again: 事故で亡くなりました = \"died in/from an accident.\"",
+    "で marking means: 五時の電車で帰りました = \"came home BY the five o'clock train.\" Same particle, different job — context tells you which.",
+    "Potential + negative: 言えませんでした = \"could not say\" (from 言う → 言える → 言えませんでした).",
+    "亡くなる is the gentle, respectful word for a person dying. 死ぬ is blunt and would sound harsh here."
+   ],
+   "culture": "This story is built on the shape of the Hachikō legend — the Akita who waited at Shibuya Station for his dead owner for nearly ten years, and whose statue is still the city's most famous meeting point. The pattern of the loyal waiting dog is deeply familiar in Japan, which is why a story can invoke it in a few lines."
+  }
+ }
+]

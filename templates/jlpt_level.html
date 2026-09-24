@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}JLPT {{ level }} Kanji — Kotoba{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <p class="hero-eyebrow">日本語能力試験</p>
+  <div class="jlpt-level-tabs">
+    {% for l in levels %}
+    <a href="{{ url_for('jlpt_level', level=l) }}" class="jlpt-tab {{ 'active' if l == level else '' }}">{{ l }}</a>
+    {% endfor %}
+  </div>
+  <h1>{{ label }}</h1>
+  <p class="hero-lede">{{ entries|length }} kanji at this level, with meaning and on/kun readings pulled from the same reference-style entries as the main Kanji section.</p>
+  <a href="{{ url_for('jlpt_practice', level=level) }}" class="btn-primary kanji-practice-cta">Practice {{ level }} kanji — 4-option quiz →</a>
+  <input type="text" id="kanji-filter" class="filter-input" placeholder="Filter this list by meaning or reading...">
+</section>
+
+<section class="kanji-grid" id="kanji-grid">
+  {% for e in entries %}
+  <div class="kanji-card jlpt-entry-card"
+       data-search="{{ (e.meaning ~ ' ' ~ e.on_yomi ~ ' ' ~ e.kun_yomi)|lower }}">
+    <span class="jlpt-badge jlpt-badge-{{ e.difficulty }} kanji-card-jlpt">{{ e.difficulty }}</span>
+    <span class="kanji-card-char">{{ e.kanji }}</span>
+    <span class="kanji-card-meaning">{{ e.meaning }}</span>
+    <span class="jlpt-entry-readings">
+      <span title="On-yomi">音 {{ e.on_yomi }}</span>
+      <span title="Kun-yomi">訓 {{ e.kun_yomi }}</span>
+    </span>
+  </div>
+  {% endfor %}
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/kanji_list.js') }}"></script>
+{% endblock %}

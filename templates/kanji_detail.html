@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block title %}{{ entry.kanji }} — {{ entry.meaning }} — Kotoba{% endblock %}
+
+{% block content %}
+<section class="detail-head">
+  <a class="back-link" href="{{ url_for('kanji_list') }}">← All kanji</a>
+  <div class="detail-top">
+    <div class="detail-char">{{ entry.kanji }}</div>
+    <div class="detail-info">
+      <h1>{{ entry.meaning }}</h1>
+      {% if entry.jlpt_level %}
+      <a href="{{ url_for('jlpt_level', level=entry.jlpt_level) }}" class="jlpt-badge jlpt-badge-{{ entry.jlpt_level }}">JLPT {{ entry.jlpt_level }}</a>
+      {% endif %}
+      <dl class="reading-list">
+        <div>
+          <dt>On-yomi <span>(Chinese reading)</span></dt>
+          <dd>{{ entry.on_yomi if entry.on_yomi else "—" }}</dd>
+        </div>
+        <div>
+          <dt>Kun-yomi <span>(Japanese reading)</span></dt>
+          <dd>{{ entry.kun_yomi if entry.kun_yomi else "—" }}</dd>
+        </div>
+        <div>
+          <dt>Stroke count</dt>
+          <dd>{{ entry.strokes }}</dd>
+        </div>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<section class="vocab-section">
+  <h2>Vocabulary</h2>
+  <div class="vocab-table">
+    {% for v in entry.vocab %}
+    <div class="vocab-row">
+      <span class="vocab-word">{{ v.word }}</span>
+      <span class="vocab-reading">{{ v.reading }}</span>
+      <span class="vocab-romaji">{{ v.romaji }}</span>
+      <span class="vocab-meaning">{{ v.meaning }}</span>
+    </div>
+    {% else %}
+    <p class="empty-note">No vocabulary recorded for this character yet.</p>
+    {% endfor %}
+  </div>
+</section>
+
+{% if explanation %}
+<section class="sentence-section">
+  <h2>In a sentence</h2>
+  <div class="sentence-card">
+    <p class="sentence-kanji">{{ explanation.sentence_kanji }}</p>
+    <p class="sentence-hiragana">{{ explanation.sentence_hiragana }}</p>
+    <p class="sentence-romaji">{{ explanation.sentence_romaji }}</p>
+    <p class="sentence-en">{{ explanation.sentence_en }}</p>
+    <p class="sentence-usage"><strong>Commonly used:</strong> {{ explanation.usage_note }}</p>
+  </div>
+</section>
+{% endif %}
+{% endblock %}

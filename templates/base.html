@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="auto">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#EFE7D6">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Kotoba">
+<link rel="manifest" href="{{ url_for('static', filename='manifest.json') }}">
+<link rel="icon" href="{{ url_for('static', filename='icons/icon-192.png') }}">
+<link rel="apple-touch-icon" href="{{ url_for('static', filename='icons/apple-touch-icon.png') }}">
+<title>{% block title %}Kotoba — Learn Japanese{% endblock %}</title>
+<script>
+/* Apply the saved theme before the first paint. Without this, every page
+   load would flash the light palette for a frame before theme.js runs. */
+(function () {
+  try {
+    var choice = localStorage.getItem('kotoba:theme') || 'auto';
+    var dark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var resolved = choice === 'auto' ? (dark ? 'sumi' : 'washi') : choice;
+    document.documentElement.setAttribute('data-theme', resolved);
+    document.documentElement.setAttribute('data-theme-choice', choice);
+    var bar = { washi: '#EFE7D6', sakura: '#FAF0F2', matcha: '#EFF1E3',
+                sumi: '#13161A', yozakura: '#161119' }[resolved];
+    if (bar) {
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', bar);
+    }
+  } catch (e) { /* storage blocked — fall back to the CSS default */ }
+})();
+</script>
+<!-- Loaded non-blockingly. Inside the APK there is no network at all,
+     so a normal stylesheet link here would stall the first paint until
+     the request timed out. media="print" takes it off the critical path;
+     onload promotes it once (and if) it actually arrives. Bundled fonts
+     in /static/fonts take priority - see static/fonts/README.md. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@500;600&family=Noto+Serif+JP:wght@400;500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap"
+      media="print" onload="this.media='all'">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<div class="seal-bg" aria-hidden="true"></div>
+
+<header class="site-header">
+  <a class="brand" href="{{ url_for('index') }}">
+    <span class="brand-mark">言</span>
+    <span class="brand-text">
+      <span class="brand-jp">ことば</span>
+      <span class="brand-en">Kotoba</span>
+    </span>
+  </a>
+
+  <form class="header-search" action="{{ url_for('search_page') }}" method="get">
+    <input
+      type="text"
+      name="q"
+      placeholder="Search a word — English or 日本語..."
+      value="{{ request.args.get('q', '') }}"
+      autocomplete="off"
+    >
+    <button type="submit" aria-label="Search">検</button>
+  </form>
+
+  <a href="{{ url_for('streak_page') }}" class="streak-badge" id="streak-badge" title="Dashboard — your streak and progress">
+    <span id="streak-flame">🔥</span>
+    <span id="streak-count">–</span>
+  </a>
+
+  <div class="auth-nav">
+    {% if current_user %}
+    <span class="auth-username" title="Signed in">{{ current_user.username }}</span>
+    <form action="{{ url_for('logout') }}" method="post">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+      <button type="submit" class="auth-link">Log out</button>
+    </form>
+    {% else %}
+    <a href="{{ url_for('login') }}" class="auth-link">Log in</a>
+    <a href="{{ url_for('signup') }}" class="auth-link auth-link-cta">Sign up</a>
+    {% endif %}
+  </div>
+
+  <div class="settings-wrap">
+    <button type="button" class="settings-btn" id="settings-btn"
+            aria-expanded="false" aria-controls="settings-panel"
+            aria-label="Theme and sound settings" title="Theme &amp; sound">色</button>
+
+    <div class="settings-panel" id="settings-panel" hidden>
+      <h4>色 · Theme</h4>
+      <div class="theme-options" id="theme-options"></div>
+
+      <h4>音 · Feedback</h4>
+      <div class="settings-row">
+        <span>Sound effects</span>
+        <button type="button" class="switch" id="sound-switch" role="switch"
+                aria-checked="true" aria-label="Sound effects"></button>
+      </div>
+      <div class="settings-row">
+        <span>Vibration</span>
+        <button type="button" class="switch" id="haptics-switch" role="switch"
+                aria-checked="true" aria-label="Vibration"></button>
+      </div>
+
+      <div class="settings-links">
+        <a href="{{ url_for('about_page') }}">About Kotoba</a>
+        <a href="{{ url_for('feedback_page') }}">Send feedback</a>
+      </div>
+    </div>
+  </div>
+
+  <nav class="site-nav" id="site-nav" aria-label="Sections">
+    <a href="{{ url_for('hiragana') }}" class="{{ 'active' if request.endpoint == 'hiragana' }}">Hiragana</a>
+    <a href="{{ url_for('katakana') }}" class="{{ 'active' if request.endpoint == 'katakana' }}">Katakana</a>
+    <a href="{{ url_for('kanji_list') }}" class="{{ 'active' if request.endpoint in ['kanji_list','kanji_detail','kanji_practice'] }}">Kanji</a>
+    <a href="{{ url_for('jlpt_index') }}" class="{{ 'active' if request.endpoint in ['jlpt_index','jlpt_level','jlpt_practice'] }}">JLPT</a>
+    <a href="{{ url_for('verbs_list') }}" class="{{ 'active' if request.endpoint == 'verbs_list' }}">Verbs</a>
+    <a href="{{ url_for('everyday_words') }}" class="{{ 'active' if request.endpoint == 'everyday_words' }}">Everyday</a>
+    <a href="{{ url_for('stories_list') }}" class="{{ 'active' if request.endpoint in ['stories_list','story_detail'] }}">Stories</a>
+    <a href="{{ url_for('conversations_list') }}" class="{{ 'active' if request.endpoint in ['conversations_list','conversation_detail'] }}">Talk</a>
+    <a href="{{ url_for('flashcards') }}" class="{{ 'active' if request.endpoint == 'flashcards' }}">Cards</a>
+    <a href="{{ url_for('write_page') }}" class="{{ 'active' if request.endpoint == 'write_page' }}">Writing Practice</a>
+    <a href="{{ url_for('practice_start') }}" class="nav-cta {{ 'active' if request.endpoint == 'practice_start' }}">Practice</a>
+  </nav>
+</header>
+
+<main class="site-main">
+  {% block content %}{% endblock %}
+</main>
+
+<footer class="site-footer">
+  <p>
+    <a href="{{ url_for('about_page') }}">About</a> ·
+    <a href="{{ url_for('feedback_page') }}">Feedback</a>
+  </p>
+  <p>Vocabulary and kanji lessons adapted from a beginner Japanese textbook · built for learning, not for redistribution.</p>
+  <p class="site-version">Kotoba v{{ app_version }}</p>
+</footer>
+
+<script src="{{ url_for('static', filename='js/sfx.js') }}"></script>
+<script src="{{ url_for('static', filename='js/theme.js') }}"></script>
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/sw.js').catch(() => {});
+  });
+}
+</script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

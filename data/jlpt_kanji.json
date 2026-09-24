@@ -1,0 +1,8002 @@
+[
+  {
+    "kanji": "日",
+    "on_yomi": "ニチ、ジツ",
+    "kun_yomi": "ひ、-か",
+    "meaning": "day, sun",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "一",
+    "on_yomi": "イチ、イツ",
+    "kun_yomi": "ひと-つ",
+    "meaning": "one",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "国",
+    "on_yomi": "コク",
+    "kun_yomi": "くに",
+    "meaning": "country",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "会",
+    "on_yomi": "カイ、エ",
+    "kun_yomi": "あ-う",
+    "meaning": "meet",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "人",
+    "on_yomi": "ジン、ニン",
+    "kun_yomi": "ひと",
+    "meaning": "person",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "年",
+    "on_yomi": "ネン",
+    "kun_yomi": "とし",
+    "meaning": "year",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "大",
+    "on_yomi": "ダイ、タイ",
+    "kun_yomi": "おお-きい",
+    "meaning": "big",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "十",
+    "on_yomi": "ジュウ、ジッ",
+    "kun_yomi": "とお、と",
+    "meaning": "ten",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "二",
+    "on_yomi": "ニ",
+    "kun_yomi": "ふた-つ",
+    "meaning": "two",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "本",
+    "on_yomi": "ホン",
+    "kun_yomi": "もと",
+    "meaning": "book, origin",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "中",
+    "on_yomi": "チュウ",
+    "kun_yomi": "なか",
+    "meaning": "middle, inside",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "長",
+    "on_yomi": "チョウ",
+    "kun_yomi": "なが-い",
+    "meaning": "long, leader",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "出",
+    "on_yomi": "シュツ",
+    "kun_yomi": "で-る、だ-す",
+    "meaning": "exit, go out",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "三",
+    "on_yomi": "サン",
+    "kun_yomi": "みっ-つ",
+    "meaning": "three",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "時",
+    "on_yomi": "ジ",
+    "kun_yomi": "とき",
+    "meaning": "time",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "行",
+    "on_yomi": "コウ、ギョウ",
+    "kun_yomi": "い-く、おこな-う",
+    "meaning": "go, conduct",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "社",
+    "on_yomi": "シャ",
+    "kun_yomi": "やしろ",
+    "meaning": "company, shrine",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "見",
+    "on_yomi": "ケン",
+    "kun_yomi": "み-る",
+    "meaning": "see",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "月",
+    "on_yomi": "ゲツ、ガツ",
+    "kun_yomi": "つき",
+    "meaning": "month, moon",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "分",
+    "on_yomi": "ブン、フン、ブ",
+    "kun_yomi": "わ-ける",
+    "meaning": "part, minute",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "後",
+    "on_yomi": "ゴ、コウ",
+    "kun_yomi": "あと、うし-ろ",
+    "meaning": "after, behind",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "前",
+    "on_yomi": "ゼン",
+    "kun_yomi": "まえ",
+    "meaning": "before, front",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "生",
+    "on_yomi": "セイ、ショウ",
+    "kun_yomi": "い-きる、う-まれる",
+    "meaning": "life, birth",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "五",
+    "on_yomi": "ゴ",
+    "kun_yomi": "いつ-つ",
+    "meaning": "five",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "間",
+    "on_yomi": "カン、ケン",
+    "kun_yomi": "あいだ",
+    "meaning": "interval, between",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "上",
+    "on_yomi": "ジョウ",
+    "kun_yomi": "うえ、あ-げる",
+    "meaning": "above, up",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "東",
+    "on_yomi": "トウ",
+    "kun_yomi": "ひがし",
+    "meaning": "east",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "四",
+    "on_yomi": "シ",
+    "kun_yomi": "よん、よっ-つ",
+    "meaning": "four",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "今",
+    "on_yomi": "コン",
+    "kun_yomi": "いま",
+    "meaning": "now",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "新",
+    "on_yomi": "シン",
+    "kun_yomi": "あたら-しい",
+    "meaning": "new",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "金",
+    "on_yomi": "キン、コン",
+    "kun_yomi": "かね",
+    "meaning": "gold, money",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "九",
+    "on_yomi": "キュウ、ク",
+    "kun_yomi": "ここの-つ",
+    "meaning": "nine",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "入",
+    "on_yomi": "ニュウ",
+    "kun_yomi": "はい-る、い-れる",
+    "meaning": "enter",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "立",
+    "on_yomi": "リツ",
+    "kun_yomi": "た-つ",
+    "meaning": "stand",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "手",
+    "on_yomi": "シュ",
+    "kun_yomi": "て",
+    "meaning": "hand",
+    "level": "N5",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "学",
+    "on_yomi": "ガク",
+    "kun_yomi": "まな-ぶ",
+    "meaning": "study",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "高",
+    "on_yomi": "コウ",
+    "kun_yomi": "たか-い",
+    "meaning": "tall, high",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "円",
+    "on_yomi": "エン",
+    "kun_yomi": "まる-い",
+    "meaning": "circle, yen",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "子",
+    "on_yomi": "シ、ス",
+    "kun_yomi": "こ",
+    "meaning": "child",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "目",
+    "on_yomi": "モク",
+    "kun_yomi": "め",
+    "meaning": "eye",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "外",
+    "on_yomi": "ガイ、ゲ",
+    "kun_yomi": "そと",
+    "meaning": "outside",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "言",
+    "on_yomi": "ゲン、ゴン",
+    "kun_yomi": "い-う",
+    "meaning": "say",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "八",
+    "on_yomi": "ハチ",
+    "kun_yomi": "やっ-つ",
+    "meaning": "eight",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "六",
+    "on_yomi": "ロク",
+    "kun_yomi": "むっ-つ",
+    "meaning": "six",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "下",
+    "on_yomi": "カ、ゲ",
+    "kun_yomi": "した、さ-げる",
+    "meaning": "below, down",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "来",
+    "on_yomi": "ライ",
+    "kun_yomi": "く-る",
+    "meaning": "come",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "気",
+    "on_yomi": "キ、ケ",
+    "kun_yomi": "-",
+    "meaning": "spirit, air",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "小",
+    "on_yomi": "ショウ",
+    "kun_yomi": "ちい-さい",
+    "meaning": "small",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "七",
+    "on_yomi": "シチ",
+    "kun_yomi": "なな-つ",
+    "meaning": "seven",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "山",
+    "on_yomi": "サン",
+    "kun_yomi": "やま",
+    "meaning": "mountain",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "話",
+    "on_yomi": "ワ",
+    "kun_yomi": "はな-す",
+    "meaning": "talk",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "多",
+    "on_yomi": "タ",
+    "kun_yomi": "おお-い",
+    "meaning": "many",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "安",
+    "on_yomi": "アン",
+    "kun_yomi": "やす-い",
+    "meaning": "cheap, peaceful",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "女",
+    "on_yomi": "ジョ",
+    "kun_yomi": "おんな",
+    "meaning": "woman",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "北",
+    "on_yomi": "ホク",
+    "kun_yomi": "きた",
+    "meaning": "north",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "午",
+    "on_yomi": "ゴ",
+    "kun_yomi": "-",
+    "meaning": "noon",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "百",
+    "on_yomi": "ヒャク",
+    "kun_yomi": "-",
+    "meaning": "hundred",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "書",
+    "on_yomi": "ショ",
+    "kun_yomi": "か-く",
+    "meaning": "write",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "先",
+    "on_yomi": "セン",
+    "kun_yomi": "さき",
+    "meaning": "ahead, previous",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "名",
+    "on_yomi": "メイ、ミョウ",
+    "kun_yomi": "な",
+    "meaning": "name",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "川",
+    "on_yomi": "セン",
+    "kun_yomi": "かわ",
+    "meaning": "river",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "千",
+    "on_yomi": "セン",
+    "kun_yomi": "-",
+    "meaning": "thousand",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "道",
+    "on_yomi": "ドウ",
+    "kun_yomi": "みち",
+    "meaning": "road, way",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "水",
+    "on_yomi": "スイ",
+    "kun_yomi": "みず",
+    "meaning": "water",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "半",
+    "on_yomi": "ハン",
+    "kun_yomi": "なか-ば",
+    "meaning": "half",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "男",
+    "on_yomi": "ダン、ナン",
+    "kun_yomi": "おとこ",
+    "meaning": "man",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "西",
+    "on_yomi": "セイ、サイ",
+    "kun_yomi": "にし",
+    "meaning": "west",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "電",
+    "on_yomi": "デン",
+    "kun_yomi": "-",
+    "meaning": "electricity",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "口",
+    "on_yomi": "コウ、ク",
+    "kun_yomi": "くち",
+    "meaning": "mouth",
+    "level": "N5",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "少",
+    "on_yomi": "ショウ",
+    "kun_yomi": "すく-ない、すこ-し",
+    "meaning": "few, little",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "校",
+    "on_yomi": "コウ",
+    "kun_yomi": "-",
+    "meaning": "school",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "語",
+    "on_yomi": "ゴ",
+    "kun_yomi": "かた-る",
+    "meaning": "language, word",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "空",
+    "on_yomi": "クウ",
+    "kun_yomi": "そら、あ-く",
+    "meaning": "sky, empty",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "土",
+    "on_yomi": "ド、ト",
+    "kun_yomi": "つち",
+    "meaning": "soil",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "木",
+    "on_yomi": "ボク、モク",
+    "kun_yomi": "き",
+    "meaning": "tree",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "聞",
+    "on_yomi": "ブン、モン",
+    "kun_yomi": "き-く",
+    "meaning": "hear",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "食",
+    "on_yomi": "ショク",
+    "kun_yomi": "た-べる",
+    "meaning": "eat",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "車",
+    "on_yomi": "シャ",
+    "kun_yomi": "くるま",
+    "meaning": "car",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "何",
+    "on_yomi": "カ",
+    "kun_yomi": "なに、なん",
+    "meaning": "what",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "南",
+    "on_yomi": "ナン",
+    "kun_yomi": "みなみ",
+    "meaning": "south",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "足",
+    "on_yomi": "ソク",
+    "kun_yomi": "あし、た-りる",
+    "meaning": "leg, foot, suffice",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "万",
+    "on_yomi": "マン、バン",
+    "kun_yomi": "-",
+    "meaning": "ten thousand",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "店",
+    "on_yomi": "テン",
+    "kun_yomi": "みせ",
+    "meaning": "store",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "毎",
+    "on_yomi": "マイ",
+    "kun_yomi": "-",
+    "meaning": "every",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "白",
+    "on_yomi": "ハク、ビャク",
+    "kun_yomi": "しろ-い",
+    "meaning": "white",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "古",
+    "on_yomi": "コ",
+    "kun_yomi": "ふる-い",
+    "meaning": "old",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "天",
+    "on_yomi": "テン",
+    "kun_yomi": "-",
+    "meaning": "heaven, sky",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "買",
+    "on_yomi": "バイ",
+    "kun_yomi": "か-う",
+    "meaning": "buy",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "週",
+    "on_yomi": "シュウ",
+    "kun_yomi": "-",
+    "meaning": "week",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "母",
+    "on_yomi": "ボ",
+    "kun_yomi": "はは",
+    "meaning": "mother",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "火",
+    "on_yomi": "カ",
+    "kun_yomi": "ひ",
+    "meaning": "fire",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "花",
+    "on_yomi": "カ",
+    "kun_yomi": "はな",
+    "meaning": "flower",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "右",
+    "on_yomi": "ウ、ユウ",
+    "kun_yomi": "みぎ",
+    "meaning": "right",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "読",
+    "on_yomi": "ドク",
+    "kun_yomi": "よ-む",
+    "meaning": "read",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "友",
+    "on_yomi": "ユウ",
+    "kun_yomi": "とも",
+    "meaning": "friend",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "左",
+    "on_yomi": "サ",
+    "kun_yomi": "ひだり",
+    "meaning": "left",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "休",
+    "on_yomi": "キュウ",
+    "kun_yomi": "やす-む",
+    "meaning": "rest",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "父",
+    "on_yomi": "フ",
+    "kun_yomi": "ちち",
+    "meaning": "father",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "駅",
+    "on_yomi": "エキ",
+    "kun_yomi": "-",
+    "meaning": "station",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "雨",
+    "on_yomi": "ウ",
+    "kun_yomi": "あめ",
+    "meaning": "rain",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "飲",
+    "on_yomi": "イン",
+    "kun_yomi": "の-む",
+    "meaning": "drink",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "魚",
+    "on_yomi": "ギョ",
+    "kun_yomi": "さかな",
+    "meaning": "fish",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "耳",
+    "on_yomi": "ジ",
+    "kun_yomi": "みみ",
+    "meaning": "ear",
+    "level": "N5",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "事",
+    "on_yomi": "ジ、ズ",
+    "kun_yomi": "こと",
+    "meaning": "matter, thing",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "自",
+    "on_yomi": "ジ、シ",
+    "kun_yomi": "みずか-ら",
+    "meaning": "self",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "同",
+    "on_yomi": "ドウ",
+    "kun_yomi": "おな-じ",
+    "meaning": "same",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "方",
+    "on_yomi": "ホウ",
+    "kun_yomi": "かた",
+    "meaning": "direction, person(hon)",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "理",
+    "on_yomi": "リ",
+    "kun_yomi": "-",
+    "meaning": "logic, reason",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "力",
+    "on_yomi": "リョク、リキ",
+    "kun_yomi": "ちから",
+    "meaning": "power",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "思",
+    "on_yomi": "シ",
+    "kun_yomi": "おも-う",
+    "meaning": "think",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "動",
+    "on_yomi": "ドウ",
+    "kun_yomi": "うご-く",
+    "meaning": "move",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "家",
+    "on_yomi": "カ、ケ",
+    "kun_yomi": "いえ、や",
+    "meaning": "house",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "体",
+    "on_yomi": "タイ、テイ",
+    "kun_yomi": "からだ",
+    "meaning": "body",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "作",
+    "on_yomi": "サク、サ",
+    "kun_yomi": "つく-る",
+    "meaning": "make",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "持",
+    "on_yomi": "ジ",
+    "kun_yomi": "も-つ",
+    "meaning": "hold",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "明",
+    "on_yomi": "メイ、ミョウ",
+    "kun_yomi": "あか-るい",
+    "meaning": "bright",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "私",
+    "on_yomi": "シ",
+    "kun_yomi": "わたし",
+    "meaning": "I, private",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "心",
+    "on_yomi": "シン",
+    "kun_yomi": "こころ",
+    "meaning": "heart",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "意",
+    "on_yomi": "イ",
+    "kun_yomi": "-",
+    "meaning": "idea, meaning",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "度",
+    "on_yomi": "ド、タク",
+    "kun_yomi": "たび",
+    "meaning": "degree, times",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "知",
+    "on_yomi": "チ",
+    "kun_yomi": "し-る",
+    "meaning": "know",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "通",
+    "on_yomi": "ツウ",
+    "kun_yomi": "とお-る、かよ-う",
+    "meaning": "pass through, commute",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "不",
+    "on_yomi": "フ、ブ",
+    "kun_yomi": "-",
+    "meaning": "not, negative",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "物",
+    "on_yomi": "ブツ、モツ",
+    "kun_yomi": "もの",
+    "meaning": "thing",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "的",
+    "on_yomi": "テキ",
+    "kun_yomi": "まと",
+    "meaning": "target, -like",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "問",
+    "on_yomi": "モン",
+    "kun_yomi": "と-う",
+    "meaning": "question",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "用",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "もち-いる",
+    "meaning": "use",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "田",
+    "on_yomi": "デン",
+    "kun_yomi": "た",
+    "meaning": "rice field",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "代",
+    "on_yomi": "ダイ、タイ",
+    "kun_yomi": "か-わる、よ",
+    "meaning": "substitute, generation",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "世",
+    "on_yomi": "セイ、セ",
+    "kun_yomi": "よ",
+    "meaning": "world, generation",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "死",
+    "on_yomi": "シ",
+    "kun_yomi": "し-ぬ",
+    "meaning": "death",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "開",
+    "on_yomi": "カイ",
+    "kun_yomi": "ひら-く、あ-く",
+    "meaning": "open",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "無",
+    "on_yomi": "ム、ブ",
+    "kun_yomi": "な-い",
+    "meaning": "nothing, without",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "強",
+    "on_yomi": "キョウ",
+    "kun_yomi": "つよ-い",
+    "meaning": "strong",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "野",
+    "on_yomi": "ヤ",
+    "kun_yomi": "の",
+    "meaning": "field, plain",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "教",
+    "on_yomi": "キョウ",
+    "kun_yomi": "おし-える",
+    "meaning": "teach",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "正",
+    "on_yomi": "セイ、ショウ",
+    "kun_yomi": "ただ-しい",
+    "meaning": "correct",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "早",
+    "on_yomi": "ソウ、サッ",
+    "kun_yomi": "はや-い",
+    "meaning": "early, fast",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "親",
+    "on_yomi": "シン",
+    "kun_yomi": "おや、した-しい",
+    "meaning": "parent, intimate",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "験",
+    "on_yomi": "ケン、ゲン",
+    "kun_yomi": "-",
+    "meaning": "test, verification",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "英",
+    "on_yomi": "エイ",
+    "kun_yomi": "-",
+    "meaning": "England, excel",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "医",
+    "on_yomi": "イ",
+    "kun_yomi": "-",
+    "meaning": "medicine, doctor",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "仕",
+    "on_yomi": "シ、ジ",
+    "kun_yomi": "つか-える",
+    "meaning": "serve",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "味",
+    "on_yomi": "ミ",
+    "kun_yomi": "あじ",
+    "meaning": "taste",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "字",
+    "on_yomi": "ジ",
+    "kun_yomi": "あざ",
+    "meaning": "character, letter",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "答",
+    "on_yomi": "トウ",
+    "kun_yomi": "こた-える",
+    "meaning": "answer",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "夜",
+    "on_yomi": "ヤ",
+    "kun_yomi": "よる、よ",
+    "meaning": "night",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "音",
+    "on_yomi": "オン、イン",
+    "kun_yomi": "おと、ね",
+    "meaning": "sound",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "帰",
+    "on_yomi": "キ",
+    "kun_yomi": "かえ-る",
+    "meaning": "return",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "都",
+    "on_yomi": "ト、ツ",
+    "kun_yomi": "みやこ",
+    "meaning": "capital, metropolis",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "様",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "さま",
+    "meaning": "manner, Mr/Mrs (honorific)",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "主",
+    "on_yomi": "シュ、ス",
+    "kun_yomi": "ぬし、おも",
+    "meaning": "main, master",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "乗",
+    "on_yomi": "ジョウ",
+    "kun_yomi": "の-る",
+    "meaning": "ride",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "京",
+    "on_yomi": "キョウ、ケイ",
+    "kun_yomi": "みやこ",
+    "meaning": "capital",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "以",
+    "on_yomi": "イ",
+    "kun_yomi": "もっ-て",
+    "meaning": "by means of",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "達",
+    "on_yomi": "タツ",
+    "kun_yomi": "-",
+    "meaning": "reach, attain, plural suffix",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "始",
+    "on_yomi": "シ",
+    "kun_yomi": "はじ-める",
+    "meaning": "begin",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "終",
+    "on_yomi": "シュウ",
+    "kun_yomi": "お-わる",
+    "meaning": "end",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "着",
+    "on_yomi": "チャク、ジャク",
+    "kun_yomi": "き-る、つ-く",
+    "meaning": "wear, arrive",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "運",
+    "on_yomi": "ウン",
+    "kun_yomi": "はこ-ぶ",
+    "meaning": "carry, luck",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "転",
+    "on_yomi": "テン",
+    "kun_yomi": "ころ-がる",
+    "meaning": "roll, turn",
+    "level": "N4",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "重",
+    "on_yomi": "ジュウ、チョウ",
+    "kun_yomi": "おも-い、かさ-ねる",
+    "meaning": "heavy, pile up",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "軽",
+    "on_yomi": "ケイ",
+    "kun_yomi": "かる-い",
+    "meaning": "light (weight)",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "広",
+    "on_yomi": "コウ",
+    "kun_yomi": "ひろ-い",
+    "meaning": "wide",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "速",
+    "on_yomi": "ソク",
+    "kun_yomi": "はや-い",
+    "meaning": "fast, speedy",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "深",
+    "on_yomi": "シン",
+    "kun_yomi": "ふか-い",
+    "meaning": "deep",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "太",
+    "on_yomi": "タイ、タ",
+    "kun_yomi": "ふと-い",
+    "meaning": "thick, fat",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "細",
+    "on_yomi": "サイ",
+    "kun_yomi": "ほそ-い、こま-かい",
+    "meaning": "thin, detailed",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "弱",
+    "on_yomi": "ジャク",
+    "kun_yomi": "よわ-い",
+    "meaning": "weak",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "悪",
+    "on_yomi": "アク、オ",
+    "kun_yomi": "わる-い",
+    "meaning": "bad",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "楽",
+    "on_yomi": "ラク、ガク",
+    "kun_yomi": "たの-しい",
+    "meaning": "fun, comfort, music",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "便",
+    "on_yomi": "ベン、ビン",
+    "kun_yomi": "たよ-り",
+    "meaning": "convenience, mail",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "利",
+    "on_yomi": "リ",
+    "kun_yomi": "き-く",
+    "meaning": "benefit, effective",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "危",
+    "on_yomi": "キ",
+    "kun_yomi": "あぶ-ない",
+    "meaning": "dangerous",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "険",
+    "on_yomi": "ケン",
+    "kun_yomi": "けわ-しい",
+    "meaning": "steep, risky",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "失",
+    "on_yomi": "シツ",
+    "kun_yomi": "うしな-う",
+    "meaning": "lose",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "結",
+    "on_yomi": "ケツ",
+    "kun_yomi": "むす-ぶ",
+    "meaning": "tie, conclude",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "果",
+    "on_yomi": "カ",
+    "kun_yomi": "は-たす、くだもの",
+    "meaning": "fruit, result, fulfill",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "原",
+    "on_yomi": "ゲン",
+    "kun_yomi": "はら",
+    "meaning": "plain, original, field",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "由",
+    "on_yomi": "ユ、ユウ、ユイ",
+    "kun_yomi": "よし",
+    "meaning": "reason, cause",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "関",
+    "on_yomi": "カン",
+    "kun_yomi": "せき、かか-わる",
+    "meaning": "connection, barrier",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "係",
+    "on_yomi": "ケイ",
+    "kun_yomi": "かかり",
+    "meaning": "relation, in charge",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "経",
+    "on_yomi": "ケイ、キョウ",
+    "kun_yomi": "へ-る",
+    "meaning": "pass through, sutra",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "習",
+    "on_yomi": "シュウ",
+    "kun_yomi": "なら-う",
+    "meaning": "learn, practice",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "性",
+    "on_yomi": "セイ、ショウ",
+    "kun_yomi": "-",
+    "meaning": "nature, gender",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "格",
+    "on_yomi": "カク、コウ",
+    "kun_yomi": "-",
+    "meaning": "status, case (grammar)",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "態",
+    "on_yomi": "タイ",
+    "kun_yomi": "-",
+    "meaning": "condition, state",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "感",
+    "on_yomi": "カン",
+    "kun_yomi": "-",
+    "meaning": "feeling",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "情",
+    "on_yomi": "ジョウ",
+    "kun_yomi": "なさ-け",
+    "meaning": "emotion",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "表",
+    "on_yomi": "ヒョウ",
+    "kun_yomi": "おもて、あらわ-す",
+    "meaning": "surface, express, table",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "説",
+    "on_yomi": "セツ",
+    "kun_yomi": "と-く",
+    "meaning": "theory, explain",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "紹",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "introduce",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "介",
+    "on_yomi": "カイ",
+    "kun_yomi": "-",
+    "meaning": "mediate, introduce",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "案",
+    "on_yomi": "アン",
+    "kun_yomi": "-",
+    "meaning": "plan, proposal",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "内",
+    "on_yomi": "ナイ、ダイ",
+    "kun_yomi": "うち",
+    "meaning": "inside",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "準",
+    "on_yomi": "ジュン",
+    "kun_yomi": "-",
+    "meaning": "semi-, standard",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "備",
+    "on_yomi": "ビ",
+    "kun_yomi": "そな-える",
+    "meaning": "prepare",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "計",
+    "on_yomi": "ケイ",
+    "kun_yomi": "はか-る",
+    "meaning": "measure, plan",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "画",
+    "on_yomi": "ガ、カク",
+    "kun_yomi": "-",
+    "meaning": "picture, stroke (of kanji)",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "予",
+    "on_yomi": "ヨ",
+    "kun_yomi": "-",
+    "meaning": "beforehand",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "約",
+    "on_yomi": "ヤク",
+    "kun_yomi": "-",
+    "meaning": "promise, approximately",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "連",
+    "on_yomi": "レン",
+    "kun_yomi": "つら-なる",
+    "meaning": "connect, series",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "絡",
+    "on_yomi": "ラク",
+    "kun_yomi": "から-む",
+    "meaning": "entangle, contact",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "業",
+    "on_yomi": "ギョウ、ゴウ",
+    "kun_yomi": "わざ",
+    "meaning": "business, industry, karma",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "題",
+    "on_yomi": "ダイ",
+    "kun_yomi": "-",
+    "meaning": "topic, subject",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "員",
+    "on_yomi": "イン",
+    "kun_yomi": "-",
+    "meaning": "member, staff",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "発",
+    "on_yomi": "ハツ、ホツ",
+    "kun_yomi": "-",
+    "meaning": "departure, emit",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "想",
+    "on_yomi": "ソウ",
+    "kun_yomi": "-",
+    "meaning": "thought, idea",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "論",
+    "on_yomi": "ロン",
+    "kun_yomi": "-",
+    "meaning": "theory, argument",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "究",
+    "on_yomi": "キュウ",
+    "kun_yomi": "きわ-める",
+    "meaning": "investigate thoroughly",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "件",
+    "on_yomi": "ケン",
+    "kun_yomi": "-",
+    "meaning": "matter, case",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "共",
+    "on_yomi": "キョウ",
+    "kun_yomi": "とも",
+    "meaning": "together, both",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "協",
+    "on_yomi": "キョウ",
+    "kun_yomi": "-",
+    "meaning": "cooperate",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "各",
+    "on_yomi": "カク",
+    "kun_yomi": "おのおの",
+    "meaning": "each",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "完",
+    "on_yomi": "カン",
+    "kun_yomi": "-",
+    "meaning": "complete",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "官",
+    "on_yomi": "カン",
+    "kun_yomi": "-",
+    "meaning": "government official",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "管",
+    "on_yomi": "カン",
+    "kun_yomi": "くだ",
+    "meaning": "pipe, tube, jurisdiction",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "単",
+    "on_yomi": "タン",
+    "kun_yomi": "-",
+    "meaning": "simple, single",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "卒",
+    "on_yomi": "ソツ",
+    "kun_yomi": "-",
+    "meaning": "graduate",
+    "level": "N4",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "印",
+    "on_yomi": "イン",
+    "kun_yomi": "しるし",
+    "meaning": "mark, seal",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "刷",
+    "on_yomi": "サツ",
+    "kun_yomi": "す-る",
+    "meaning": "print",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "配",
+    "on_yomi": "ハイ",
+    "kun_yomi": "くば-る",
+    "meaning": "distribute",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "送",
+    "on_yomi": "ソウ",
+    "kun_yomi": "おく-る",
+    "meaning": "send",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "受",
+    "on_yomi": "ジュ",
+    "kun_yomi": "う-ける",
+    "meaning": "receive",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "授",
+    "on_yomi": "ジュ",
+    "kun_yomi": "さず-ける",
+    "meaning": "instruct, grant",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "与",
+    "on_yomi": "ヨ",
+    "kun_yomi": "あた-える",
+    "meaning": "give",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "加",
+    "on_yomi": "カ",
+    "kun_yomi": "くわ-える",
+    "meaning": "add",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "増",
+    "on_yomi": "ゾウ",
+    "kun_yomi": "ふ-える",
+    "meaning": "increase",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "割",
+    "on_yomi": "カツ",
+    "kun_yomi": "わ-る",
+    "meaning": "divide, ratio",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "倍",
+    "on_yomi": "バイ",
+    "kun_yomi": "-",
+    "meaning": "times, double",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "数",
+    "on_yomi": "スウ",
+    "kun_yomi": "かず",
+    "meaning": "number",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "適",
+    "on_yomi": "テキ",
+    "kun_yomi": "-",
+    "meaning": "suitable",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "応",
+    "on_yomi": "オウ",
+    "kun_yomi": "こた-える",
+    "meaning": "respond",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "当",
+    "on_yomi": "トウ",
+    "kun_yomi": "あ-たる",
+    "meaning": "hit, applicable",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "然",
+    "on_yomi": "ゼン、ネン",
+    "kun_yomi": "-",
+    "meaning": "so, like that",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "必",
+    "on_yomi": "ヒツ",
+    "kun_yomi": "かなら-ず",
+    "meaning": "certainly",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "要",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "い-る",
+    "meaning": "need, important",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "求",
+    "on_yomi": "キュウ",
+    "kun_yomi": "もと-める",
+    "meaning": "seek, request",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "願",
+    "on_yomi": "ガン",
+    "kun_yomi": "ねが-う",
+    "meaning": "wish, request",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "望",
+    "on_yomi": "ボウ、モウ",
+    "kun_yomi": "のぞ-む",
+    "meaning": "hope, desire",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "希",
+    "on_yomi": "キ",
+    "kun_yomi": "-",
+    "meaning": "hope, rare",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "他",
+    "on_yomi": "タ",
+    "kun_yomi": "ほか",
+    "meaning": "other",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "別",
+    "on_yomi": "ベツ",
+    "kun_yomi": "わか-れる",
+    "meaning": "separate, different",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "個",
+    "on_yomi": "コ",
+    "kun_yomi": "-",
+    "meaning": "individual, counter",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "量",
+    "on_yomi": "リョウ",
+    "kun_yomi": "はか-る",
+    "meaning": "amount, measure",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "比",
+    "on_yomi": "ヒ",
+    "kun_yomi": "くら-べる",
+    "meaning": "compare, ratio",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "較",
+    "on_yomi": "カク",
+    "kun_yomi": "-",
+    "meaning": "compare",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "異",
+    "on_yomi": "イ",
+    "kun_yomi": "こと-なる",
+    "meaning": "different, strange",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "類",
+    "on_yomi": "ルイ",
+    "kun_yomi": "たぐい",
+    "meaning": "kind, type",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "似",
+    "on_yomi": "ジ",
+    "kun_yomi": "に-る",
+    "meaning": "resemble",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "認",
+    "on_yomi": "ニン",
+    "kun_yomi": "みと-める",
+    "meaning": "recognize, approve",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "識",
+    "on_yomi": "シキ",
+    "kun_yomi": "-",
+    "meaning": "knowledge, discern",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "証",
+    "on_yomi": "ショウ",
+    "kun_yomi": "あかし",
+    "meaning": "proof, evidence",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "示",
+    "on_yomi": "ジ、シ",
+    "kun_yomi": "しめ-す",
+    "meaning": "show, indicate",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "現",
+    "on_yomi": "ゲン",
+    "kun_yomi": "あらわ-れる",
+    "meaning": "appear, present",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "移",
+    "on_yomi": "イ",
+    "kun_yomi": "うつ-る",
+    "meaning": "move, shift",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "固",
+    "on_yomi": "コ",
+    "kun_yomi": "かた-める",
+    "meaning": "harden, solid",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "混",
+    "on_yomi": "コン",
+    "kun_yomi": "ま-じる",
+    "meaning": "mix",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "雑",
+    "on_yomi": "ザツ、ゾウ",
+    "kun_yomi": "-",
+    "meaning": "mixed, miscellaneous",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "複",
+    "on_yomi": "フク",
+    "kun_yomi": "-",
+    "meaning": "duplicate, compound",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "純",
+    "on_yomi": "ジュン",
+    "kun_yomi": "-",
+    "meaning": "pure",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "簡",
+    "on_yomi": "カン",
+    "kun_yomi": "-",
+    "meaning": "simple, brief",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "易",
+    "on_yomi": "イ、エキ",
+    "kun_yomi": "やさ-しい",
+    "meaning": "easy, exchange",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "難",
+    "on_yomi": "ナン",
+    "kun_yomi": "むずか-しい",
+    "meaning": "difficult",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "困",
+    "on_yomi": "コン",
+    "kun_yomi": "こま-る",
+    "meaning": "troubled",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "悩",
+    "on_yomi": "ノウ",
+    "kun_yomi": "なや-む",
+    "meaning": "worry, be troubled",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "迷",
+    "on_yomi": "メイ",
+    "kun_yomi": "まよ-う",
+    "meaning": "lost, astray",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "惑",
+    "on_yomi": "ワク",
+    "kun_yomi": "まど-う",
+    "meaning": "be perplexed",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "解",
+    "on_yomi": "カイ、ゲ",
+    "kun_yomi": "と-く",
+    "meaning": "solve, untie",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "晴",
+    "on_yomi": "セイ",
+    "kun_yomi": "は-れる",
+    "meaning": "clear (weather)",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "曇",
+    "on_yomi": "ドン",
+    "kun_yomi": "くも-る",
+    "meaning": "cloudy",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "暖",
+    "on_yomi": "ダン",
+    "kun_yomi": "あたた-かい",
+    "meaning": "warm",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "涼",
+    "on_yomi": "リョウ",
+    "kun_yomi": "すず-しい",
+    "meaning": "cool",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "温",
+    "on_yomi": "オン",
+    "kun_yomi": "あたた-かい",
+    "meaning": "warm (temperature)",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "冷",
+    "on_yomi": "レイ",
+    "kun_yomi": "つめ-たい",
+    "meaning": "cold",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "湿",
+    "on_yomi": "シツ",
+    "kun_yomi": "しめ-る",
+    "meaning": "damp, humid",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "湯",
+    "on_yomi": "トウ",
+    "kun_yomi": "ゆ",
+    "meaning": "hot water",
+    "level": "N4",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "議",
+    "on_yomi": "ギ",
+    "kun_yomi": "-",
+    "meaning": "deliberate, discuss",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "実",
+    "on_yomi": "ジツ",
+    "kun_yomi": "み、みの-る",
+    "meaning": "truth, fruit",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "費",
+    "on_yomi": "ヒ",
+    "kun_yomi": "つい-やす",
+    "meaning": "expense",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "課",
+    "on_yomi": "カ",
+    "kun_yomi": "-",
+    "meaning": "lesson, section (dept)",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "程",
+    "on_yomi": "テイ",
+    "kun_yomi": "ほど",
+    "meaning": "extent, degree",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "状",
+    "on_yomi": "ジョウ",
+    "kun_yomi": "-",
+    "meaning": "condition, letter",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "況",
+    "on_yomi": "キョウ",
+    "kun_yomi": "-",
+    "meaning": "condition, circumstances",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "査",
+    "on_yomi": "サ",
+    "kun_yomi": "-",
+    "meaning": "investigate",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "調",
+    "on_yomi": "チョウ",
+    "kun_yomi": "しら-べる",
+    "meaning": "investigate, tune",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "報",
+    "on_yomi": "ホウ",
+    "kun_yomi": "むく-いる",
+    "meaning": "report, reward",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "告",
+    "on_yomi": "コク",
+    "kun_yomi": "つ-げる",
+    "meaning": "announce",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "材",
+    "on_yomi": "ザイ",
+    "kun_yomi": "-",
+    "meaning": "material, timber",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "料",
+    "on_yomi": "リョウ",
+    "kun_yomi": "-",
+    "meaning": "fee, material",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "製",
+    "on_yomi": "セイ",
+    "kun_yomi": "-",
+    "meaning": "manufacture",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "品",
+    "on_yomi": "ヒン",
+    "kun_yomi": "しな",
+    "meaning": "goods, quality",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "産",
+    "on_yomi": "サン",
+    "kun_yomi": "う-む",
+    "meaning": "produce, give birth",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "績",
+    "on_yomi": "セキ",
+    "kun_yomi": "-",
+    "meaning": "achievement",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "効",
+    "on_yomi": "コウ",
+    "kun_yomi": "き-く",
+    "meaning": "effect",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "率",
+    "on_yomi": "リツ、ソツ",
+    "kun_yomi": "ひき-いる",
+    "meaning": "rate, lead",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "術",
+    "on_yomi": "ジュツ",
+    "kun_yomi": "-",
+    "meaning": "art, technique",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "技",
+    "on_yomi": "ギ",
+    "kun_yomi": "わざ",
+    "meaning": "skill, technique",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "能",
+    "on_yomi": "ノウ",
+    "kun_yomi": "-",
+    "meaning": "ability, Noh",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "機",
+    "on_yomi": "キ",
+    "kun_yomi": "はた",
+    "meaning": "machine, opportunity",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "械",
+    "on_yomi": "カイ",
+    "kun_yomi": "-",
+    "meaning": "mechanism",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "施",
+    "on_yomi": "シ、セ",
+    "kun_yomi": "ほどこ-す",
+    "meaning": "carry out, bestow",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "資",
+    "on_yomi": "シ",
+    "kun_yomi": "-",
+    "meaning": "resources, capital",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "投",
+    "on_yomi": "トウ",
+    "kun_yomi": "な-げる",
+    "meaning": "throw",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "益",
+    "on_yomi": "エキ、ヤク",
+    "kun_yomi": "-",
+    "meaning": "profit, benefit",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "損",
+    "on_yomi": "ソン",
+    "kun_yomi": "そこ-なう",
+    "meaning": "loss, damage",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "契",
+    "on_yomi": "ケイ",
+    "kun_yomi": "ちぎ-る",
+    "meaning": "pledge, contract",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "渉",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "negotiate",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "提",
+    "on_yomi": "テイ",
+    "kun_yomi": "さ-げる",
+    "meaning": "present, propose",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "決",
+    "on_yomi": "ケツ",
+    "kun_yomi": "き-める",
+    "meaning": "decide",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "定",
+    "on_yomi": "テイ、ジョウ",
+    "kun_yomi": "さだ-める",
+    "meaning": "decide, fix",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "判",
+    "on_yomi": "ハン、バン",
+    "kun_yomi": "-",
+    "meaning": "judge, seal",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "断",
+    "on_yomi": "ダン",
+    "kun_yomi": "ことわ-る、た-つ",
+    "meaning": "decline, cut off",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "評",
+    "on_yomi": "ヒョウ",
+    "kun_yomi": "-",
+    "meaning": "criticism, evaluate",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "価",
+    "on_yomi": "カ",
+    "kun_yomi": "あたい",
+    "meaning": "value, price",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "基",
+    "on_yomi": "キ",
+    "kun_yomi": "もと、もとい",
+    "meaning": "basis, foundation",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "標",
+    "on_yomi": "ヒョウ",
+    "kun_yomi": "-",
+    "meaning": "mark, sign",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "対",
+    "on_yomi": "タイ、ツイ",
+    "kun_yomi": "-",
+    "meaning": "versus, pair",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "象",
+    "on_yomi": "ショウ、ゾウ",
+    "kun_yomi": "-",
+    "meaning": "elephant, symbol",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "範",
+    "on_yomi": "ハン",
+    "kun_yomi": "-",
+    "meaning": "model, example",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "囲",
+    "on_yomi": "イ",
+    "kun_yomi": "かこ-む",
+    "meaning": "surround",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "限",
+    "on_yomi": "ゲン",
+    "kun_yomi": "かぎ-る",
+    "meaning": "limit",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "界",
+    "on_yomi": "カイ",
+    "kun_yomi": "-",
+    "meaning": "boundary, world",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "制",
+    "on_yomi": "セイ",
+    "kun_yomi": "-",
+    "meaning": "system, control",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "禁",
+    "on_yomi": "キン",
+    "kun_yomi": "-",
+    "meaning": "prohibit",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "許",
+    "on_yomi": "キョ",
+    "kun_yomi": "ゆる-す",
+    "meaning": "permit",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "可",
+    "on_yomi": "カ",
+    "kun_yomi": "-",
+    "meaning": "approval, -able",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "義",
+    "on_yomi": "ギ",
+    "kun_yomi": "-",
+    "meaning": "righteousness, meaning",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "務",
+    "on_yomi": "ム",
+    "kun_yomi": "つと-める",
+    "meaning": "duty",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "権",
+    "on_yomi": "ケン、ゴン",
+    "kun_yomi": "-",
+    "meaning": "right, authority",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "責",
+    "on_yomi": "セキ",
+    "kun_yomi": "せ-める",
+    "meaning": "responsibility, blame",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "任",
+    "on_yomi": "ニン",
+    "kun_yomi": "まか-せる",
+    "meaning": "duty, entrust",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "負",
+    "on_yomi": "フ",
+    "kun_yomi": "ま-ける、お-う",
+    "meaning": "lose, carry (burden)",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "担",
+    "on_yomi": "タン",
+    "kun_yomi": "かつ-ぐ",
+    "meaning": "carry (shoulder), bear",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "影",
+    "on_yomi": "エイ",
+    "kun_yomi": "かげ",
+    "meaning": "shadow, image",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "響",
+    "on_yomi": "キョウ",
+    "kun_yomi": "ひび-く",
+    "meaning": "echo, influence",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "背",
+    "on_yomi": "ハイ",
+    "kun_yomi": "せ、そむ-く",
+    "meaning": "back (body), defy",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "環",
+    "on_yomi": "カン",
+    "kun_yomi": "わ",
+    "meaning": "ring, surround",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "境",
+    "on_yomi": "キョウ、ケイ",
+    "kun_yomi": "さかい",
+    "meaning": "boundary, border",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "破",
+    "on_yomi": "ハ",
+    "kun_yomi": "やぶ-る",
+    "meaning": "break, tear",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "壊",
+    "on_yomi": "カイ",
+    "kun_yomi": "こわ-す",
+    "meaning": "destroy",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "保",
+    "on_yomi": "ホ",
+    "kun_yomi": "たも-つ",
+    "meaning": "maintain, keep",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "護",
+    "on_yomi": "ゴ",
+    "kun_yomi": "-",
+    "meaning": "protect",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "絶",
+    "on_yomi": "ゼツ",
+    "kun_yomi": "た-える",
+    "meaning": "cut off, sever",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "滅",
+    "on_yomi": "メツ",
+    "kun_yomi": "ほろ-びる",
+    "meaning": "destroy, perish",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "染",
+    "on_yomi": "セン",
+    "kun_yomi": "そ-める",
+    "meaning": "dye, be tainted",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "災",
+    "on_yomi": "サイ",
+    "kun_yomi": "わざわい",
+    "meaning": "disaster",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "害",
+    "on_yomi": "ガイ",
+    "kun_yomi": "-",
+    "meaning": "harm",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "震",
+    "on_yomi": "シン",
+    "kun_yomi": "ふる-える",
+    "meaning": "shake, quake",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "津",
+    "on_yomi": "シン",
+    "kun_yomi": "つ",
+    "meaning": "harbor, ferry",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "波",
+    "on_yomi": "ハ",
+    "kun_yomi": "なみ",
+    "meaning": "wave",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "洪",
+    "on_yomi": "コウ",
+    "kun_yomi": "-",
+    "meaning": "flood",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "噴",
+    "on_yomi": "フン",
+    "kun_yomi": "ふ-く",
+    "meaning": "spout, erupt",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "候",
+    "on_yomi": "コウ",
+    "kun_yomi": "そうろう",
+    "meaning": "climate, sign",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "兆",
+    "on_yomi": "チョウ",
+    "kun_yomi": "きざ-し",
+    "meaning": "omen, trillion",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "補",
+    "on_yomi": "ホ",
+    "kun_yomi": "おぎな-う",
+    "meaning": "supplement",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "欠",
+    "on_yomi": "ケツ",
+    "kun_yomi": "か-ける",
+    "meaning": "lack, defect",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "満",
+    "on_yomi": "マン",
+    "kun_yomi": "み-ちる",
+    "meaning": "full",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "充",
+    "on_yomi": "ジュウ",
+    "kun_yomi": "あ-てる",
+    "meaning": "fill, allocate",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "該",
+    "on_yomi": "ガイ",
+    "kun_yomi": "-",
+    "meaning": "the said, corresponding",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "伴",
+    "on_yomi": "ハン",
+    "kun_yomi": "ともな-う",
+    "meaning": "accompany",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "随",
+    "on_yomi": "ズイ",
+    "kun_yomi": "-",
+    "meaning": "follow, as one pleases",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "沿",
+    "on_yomi": "エン",
+    "kun_yomi": "そ-う",
+    "meaning": "along, run along",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "添",
+    "on_yomi": "テン",
+    "kun_yomi": "そ-える",
+    "meaning": "add, attach",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "伸",
+    "on_yomi": "シン",
+    "kun_yomi": "の-びる",
+    "meaning": "stretch, extend",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "縮",
+    "on_yomi": "シュク",
+    "kun_yomi": "ちぢ-む",
+    "meaning": "shrink",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "拡",
+    "on_yomi": "カク",
+    "kun_yomi": "-",
+    "meaning": "expand",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "張",
+    "on_yomi": "チョウ",
+    "kun_yomi": "は-る",
+    "meaning": "stretch, expand",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "抑",
+    "on_yomi": "ヨク",
+    "kun_yomi": "おさ-える",
+    "meaning": "restrain",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "操",
+    "on_yomi": "ソウ",
+    "kun_yomi": "あやつ-る",
+    "meaning": "operate, manipulate",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "縦",
+    "on_yomi": "ジュウ",
+    "kun_yomi": "たて",
+    "meaning": "vertical",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "維",
+    "on_yomi": "イ",
+    "kun_yomi": "-",
+    "meaning": "fiber, hold together",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "継",
+    "on_yomi": "ケイ",
+    "kun_yomi": "つ-ぐ",
+    "meaning": "succeed, inherit",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "続",
+    "on_yomi": "ゾク",
+    "kun_yomi": "つづ-く",
+    "meaning": "continue",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "遅",
+    "on_yomi": "チ",
+    "kun_yomi": "おそ-い",
+    "meaning": "late, slow",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "即",
+    "on_yomi": "ソク",
+    "kun_yomi": "すなわ-ち",
+    "meaning": "immediately, namely",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "座",
+    "on_yomi": "ザ",
+    "kun_yomi": "すわ-る",
+    "meaning": "seat, sit",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "瞬",
+    "on_yomi": "シュン",
+    "kun_yomi": "またた-く",
+    "meaning": "instant, blink",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "頻",
+    "on_yomi": "ヒン",
+    "kun_yomi": "-",
+    "meaning": "frequent",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "繁",
+    "on_yomi": "ハン",
+    "kun_yomi": "しげ-る",
+    "meaning": "flourish, frequent",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "永",
+    "on_yomi": "エイ",
+    "kun_yomi": "なが-い",
+    "meaning": "eternal",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "久",
+    "on_yomi": "キュウ",
+    "kun_yomi": "ひさ-しい",
+    "meaning": "long time",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "常",
+    "on_yomi": "ジョウ",
+    "kun_yomi": "つね",
+    "meaning": "usual, normal",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "普",
+    "on_yomi": "フ",
+    "kun_yomi": "-",
+    "meaning": "universal, general",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "徴",
+    "on_yomi": "チョウ",
+    "kun_yomi": "-",
+    "meaning": "sign, collect",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "勢",
+    "on_yomi": "セイ",
+    "kun_yomi": "いきお-い",
+    "meaning": "force, energy",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "局",
+    "on_yomi": "キョク",
+    "kun_yomi": "-",
+    "meaning": "bureau, situation",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "面",
+    "on_yomi": "メン",
+    "kun_yomi": "おも",
+    "meaning": "face, surface",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "景",
+    "on_yomi": "ケイ",
+    "kun_yomi": "-",
+    "meaning": "scenery",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "因",
+    "on_yomi": "イン",
+    "kun_yomi": "よ-る",
+    "meaning": "cause, factor",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "端",
+    "on_yomi": "タン",
+    "kun_yomi": "はし",
+    "meaning": "edge, end",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "末",
+    "on_yomi": "マツ",
+    "kun_yomi": "すえ",
+    "meaning": "end, tip",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "了",
+    "on_yomi": "リョウ",
+    "kun_yomi": "-",
+    "meaning": "complete, understand",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "成",
+    "on_yomi": "セイ",
+    "kun_yomi": "な-る",
+    "meaning": "become, accomplish",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "功",
+    "on_yomi": "コウ",
+    "kun_yomi": "-",
+    "meaning": "achievement, success",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "敗",
+    "on_yomi": "ハイ",
+    "kun_yomi": "やぶ-れる",
+    "meaning": "defeat",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "挑",
+    "on_yomi": "チョウ",
+    "kun_yomi": "いど-む",
+    "meaning": "challenge",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "戦",
+    "on_yomi": "セン",
+    "kun_yomi": "たたか-う",
+    "meaning": "fight, war",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "競",
+    "on_yomi": "キョウ、ケイ",
+    "kun_yomi": "きそ-う",
+    "meaning": "compete",
+    "level": "N3",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "争",
+    "on_yomi": "ソウ",
+    "kun_yomi": "あらそ-う",
+    "meaning": "dispute, contend",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "勝",
+    "on_yomi": "ショウ",
+    "kun_yomi": "か-つ",
+    "meaning": "win",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "劣",
+    "on_yomi": "レツ",
+    "kun_yomi": "おと-る",
+    "meaning": "inferior",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "優",
+    "on_yomi": "ユウ",
+    "kun_yomi": "やさ-しい",
+    "meaning": "superior, gentle",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "秀",
+    "on_yomi": "シュウ",
+    "kun_yomi": "ひい-でる",
+    "meaning": "excel",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "卓",
+    "on_yomi": "タク",
+    "kun_yomi": "-",
+    "meaning": "table, excel",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "抜",
+    "on_yomi": "バツ",
+    "kun_yomi": "ぬ-く",
+    "meaning": "pull out, surpass",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "群",
+    "on_yomi": "グン",
+    "kun_yomi": "む-れる",
+    "meaning": "group, crowd",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "傑",
+    "on_yomi": "ケツ",
+    "kun_yomi": "-",
+    "meaning": "outstanding",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "模",
+    "on_yomi": "モ、ボ",
+    "kun_yomi": "-",
+    "meaning": "imitation, model",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "盤",
+    "on_yomi": "バン",
+    "kun_yomi": "-",
+    "meaning": "tray, base, board",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "礎",
+    "on_yomi": "ソ",
+    "kun_yomi": "いしずえ",
+    "meaning": "foundation stone",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "則",
+    "on_yomi": "ソク",
+    "kun_yomi": "のり",
+    "meaning": "rule, law",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "規",
+    "on_yomi": "キ",
+    "kun_yomi": "-",
+    "meaning": "standard, rule",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "測",
+    "on_yomi": "ソク",
+    "kun_yomi": "はか-る",
+    "meaning": "measure",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "観",
+    "on_yomi": "カン",
+    "kun_yomi": "-",
+    "meaning": "view, outlook",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "察",
+    "on_yomi": "サツ",
+    "kun_yomi": "-",
+    "meaning": "guess, inspect",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "析",
+    "on_yomi": "セキ",
+    "kun_yomi": "-",
+    "meaning": "analyze",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "総",
+    "on_yomi": "ソウ",
+    "kun_yomi": "-",
+    "meaning": "general, whole",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "統",
+    "on_yomi": "トウ",
+    "kun_yomi": "す-べる",
+    "meaning": "unite, govern",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "集",
+    "on_yomi": "シュウ",
+    "kun_yomi": "あつ-まる",
+    "meaning": "gather",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "累",
+    "on_yomi": "ルイ",
+    "kun_yomi": "-",
+    "meaning": "accumulate, involve",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "積",
+    "on_yomi": "セキ",
+    "kun_yomi": "つ-む",
+    "meaning": "pile up, accumulate",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "蓄",
+    "on_yomi": "チク",
+    "kun_yomi": "たくわ-える",
+    "meaning": "store, save",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "貯",
+    "on_yomi": "チョ",
+    "kun_yomi": "-",
+    "meaning": "savings, store",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "節",
+    "on_yomi": "セツ",
+    "kun_yomi": "ふし",
+    "meaning": "node, season, moderation",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "浪",
+    "on_yomi": "ロウ",
+    "kun_yomi": "-",
+    "meaning": "wave, wander",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "消",
+    "on_yomi": "ショウ",
+    "kun_yomi": "き-える",
+    "meaning": "vanish, extinguish",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "退",
+    "on_yomi": "タイ",
+    "kun_yomi": "しりぞ-く",
+    "meaning": "retreat, withdraw",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "避",
+    "on_yomi": "ヒ",
+    "kun_yomi": "さ-ける",
+    "meaning": "avoid",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "妨",
+    "on_yomi": "ボウ",
+    "kun_yomi": "さまた-げる",
+    "meaning": "obstruct",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "阻",
+    "on_yomi": "ソ",
+    "kun_yomi": "はば-む",
+    "meaning": "obstruct, hinder",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "邪",
+    "on_yomi": "ジャ",
+    "kun_yomi": "-",
+    "meaning": "evil, wrong",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "魔",
+    "on_yomi": "マ",
+    "kun_yomi": "-",
+    "meaning": "demon, hindrance",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "障",
+    "on_yomi": "ショウ",
+    "kun_yomi": "さわ-る",
+    "meaning": "hinder, obstacle",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "壁",
+    "on_yomi": "ヘキ",
+    "kun_yomi": "かべ",
+    "meaning": "wall",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "服",
+    "on_yomi": "フク",
+    "kun_yomi": "-",
+    "meaning": "clothes, obey",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "従",
+    "on_yomi": "ジュウ",
+    "kun_yomi": "したが-う",
+    "meaning": "obey, follow",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "順",
+    "on_yomi": "ジュン",
+    "kun_yomi": "-",
+    "meaning": "order, sequence",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "逆",
+    "on_yomi": "ギャク",
+    "kun_yomi": "さか",
+    "meaning": "reverse",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "反",
+    "on_yomi": "ハン",
+    "kun_yomi": "そ-る",
+    "meaning": "anti-, turn over",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "賛",
+    "on_yomi": "サン",
+    "kun_yomi": "-",
+    "meaning": "praise, agree",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "承",
+    "on_yomi": "ショウ",
+    "kun_yomi": "うけたまわ-る",
+    "meaning": "consent, hear",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "拒",
+    "on_yomi": "キョ",
+    "kun_yomi": "こば-む",
+    "meaning": "refuse",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "否",
+    "on_yomi": "ヒ",
+    "kun_yomi": "いな",
+    "meaning": "no, deny",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "棄",
+    "on_yomi": "キ",
+    "kun_yomi": "-",
+    "meaning": "discard",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "放",
+    "on_yomi": "ホウ",
+    "kun_yomi": "はな-す",
+    "meaning": "release, let go",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "辞",
+    "on_yomi": "ジ",
+    "kun_yomi": "や-める",
+    "meaning": "resign, word",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "念",
+    "on_yomi": "ネン",
+    "kun_yomi": "-",
+    "meaning": "sense, thought",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "諦",
+    "on_yomi": "テイ",
+    "kun_yomi": "あきら-める",
+    "meaning": "give up, resign oneself",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "概",
+    "on_yomi": "ガイ",
+    "kun_yomi": "-",
+    "meaning": "general, approximate",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "旨",
+    "on_yomi": "シ",
+    "kun_yomi": "むね",
+    "meaning": "gist, purport",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "趣",
+    "on_yomi": "シュ",
+    "kun_yomi": "おもむき",
+    "meaning": "gist, taste",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "図",
+    "on_yomi": "ズ、ト",
+    "kun_yomi": "はか-る",
+    "meaning": "diagram, plan",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "企",
+    "on_yomi": "キ",
+    "kun_yomi": "くわだ-てる",
+    "meaning": "plan, scheme",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "商",
+    "on_yomi": "ショウ",
+    "kun_yomi": "あきな-う",
+    "meaning": "commerce",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "農",
+    "on_yomi": "ノウ",
+    "kun_yomi": "-",
+    "meaning": "agriculture",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "漁",
+    "on_yomi": "ギョ、リョウ",
+    "kun_yomi": "-",
+    "meaning": "fishing",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "鉱",
+    "on_yomi": "コウ",
+    "kun_yomi": "-",
+    "meaning": "ore, mineral",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "林",
+    "on_yomi": "リン",
+    "kun_yomi": "はやし",
+    "meaning": "woods",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "融",
+    "on_yomi": "ユウ",
+    "kun_yomi": "-",
+    "meaning": "melt, finance",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "株",
+    "on_yomi": "シュ",
+    "kun_yomi": "かぶ",
+    "meaning": "stock, stump",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "税",
+    "on_yomi": "ゼイ",
+    "kun_yomi": "-",
+    "meaning": "tax",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "倒",
+    "on_yomi": "トウ",
+    "kun_yomi": "たお-れる",
+    "meaning": "fall over, collapse",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "訪",
+    "on_yomi": "ホウ",
+    "kun_yomi": "おとず-れる",
+    "meaning": "visit",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "伺",
+    "on_yomi": "シ",
+    "kun_yomi": "うかが-う",
+    "meaning": "inquire (humble), visit",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "探",
+    "on_yomi": "タン",
+    "kun_yomi": "さが-す",
+    "meaning": "search",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "検",
+    "on_yomi": "ケン",
+    "kun_yomi": "-",
+    "meaning": "inspect, examine",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "冒",
+    "on_yomi": "ボウ",
+    "kun_yomi": "おか-す",
+    "meaning": "risk, brave",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "突",
+    "on_yomi": "トツ",
+    "kun_yomi": "つ-く",
+    "meaning": "thrust, sudden",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "衝",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "collide, impact",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "騒",
+    "on_yomi": "ソウ",
+    "kun_yomi": "さわ-ぐ",
+    "meaning": "noisy, disturbance",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "乱",
+    "on_yomi": "ラン",
+    "kun_yomi": "みだ-れる",
+    "meaning": "disorder, riot",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "秩",
+    "on_yomi": "チツ",
+    "kun_yomi": "-",
+    "meaning": "order",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "序",
+    "on_yomi": "ジョ",
+    "kun_yomi": "-",
+    "meaning": "order, preface",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "締",
+    "on_yomi": "テイ",
+    "kun_yomi": "し-まる",
+    "meaning": "tighten, conclude (contract)",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "盟",
+    "on_yomi": "メイ",
+    "kun_yomi": "-",
+    "meaning": "alliance, oath",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "邦",
+    "on_yomi": "ホウ",
+    "kun_yomi": "-",
+    "meaning": "nation, our country",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "域",
+    "on_yomi": "イキ",
+    "kun_yomi": "-",
+    "meaning": "region, zone",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "郷",
+    "on_yomi": "キョウ、ゴウ",
+    "kun_yomi": "-",
+    "meaning": "hometown",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "村",
+    "on_yomi": "ソン",
+    "kun_yomi": "むら",
+    "meaning": "village",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "郡",
+    "on_yomi": "グン",
+    "kun_yomi": "-",
+    "meaning": "county, district",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "県",
+    "on_yomi": "ケン",
+    "kun_yomi": "-",
+    "meaning": "prefecture",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "府",
+    "on_yomi": "フ",
+    "kun_yomi": "-",
+    "meaning": "urban prefecture, government",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "庁",
+    "on_yomi": "チョウ",
+    "kun_yomi": "-",
+    "meaning": "government office",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "舎",
+    "on_yomi": "シャ",
+    "kun_yomi": "-",
+    "meaning": "building, dormitory",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "寮",
+    "on_yomi": "リョウ",
+    "kun_yomi": "-",
+    "meaning": "dormitory",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "塔",
+    "on_yomi": "トウ",
+    "kun_yomi": "-",
+    "meaning": "tower",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "殿",
+    "on_yomi": "デン、テン",
+    "kun_yomi": "との、どの",
+    "meaning": "hall, Mr/Lord (formal)",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "邸",
+    "on_yomi": "テイ",
+    "kun_yomi": "やしき",
+    "meaning": "residence, mansion",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "宅",
+    "on_yomi": "タク",
+    "kun_yomi": "-",
+    "meaning": "home, residence",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "敷",
+    "on_yomi": "フ",
+    "kun_yomi": "し-く",
+    "meaning": "spread, lay out",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "棟",
+    "on_yomi": "トウ",
+    "kun_yomi": "むね",
+    "meaning": "ridge (of roof), building counter",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "柱",
+    "on_yomi": "チュウ",
+    "kun_yomi": "はしら",
+    "meaning": "pillar",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "階",
+    "on_yomi": "カイ",
+    "kun_yomi": "-",
+    "meaning": "floor, storey",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "層",
+    "on_yomi": "ソウ",
+    "kun_yomi": "-",
+    "meaning": "layer, stratum",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "段",
+    "on_yomi": "ダン",
+    "kun_yomi": "-",
+    "meaning": "step, level",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "坂",
+    "on_yomi": "ハン",
+    "kun_yomi": "さか",
+    "meaning": "slope, hill",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "丘",
+    "on_yomi": "キュウ",
+    "kun_yomi": "おか",
+    "meaning": "hill",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "岸",
+    "on_yomi": "ガン",
+    "kun_yomi": "きし",
+    "meaning": "shore, bank",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "港",
+    "on_yomi": "コウ",
+    "kun_yomi": "みなと",
+    "meaning": "harbor",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "湾",
+    "on_yomi": "ワン",
+    "kun_yomi": "-",
+    "meaning": "bay, gulf",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "泉",
+    "on_yomi": "セン",
+    "kun_yomi": "いずみ",
+    "meaning": "spring (water)",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "池",
+    "on_yomi": "チ",
+    "kun_yomi": "いけ",
+    "meaning": "pond",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "雇",
+    "on_yomi": "コ",
+    "kun_yomi": "やと-う",
+    "meaning": "employ, hire",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "昇",
+    "on_yomi": "ショウ",
+    "kun_yomi": "のぼ-る",
+    "meaning": "rise, ascend",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "進",
+    "on_yomi": "シン",
+    "kun_yomi": "すす-む",
+    "meaning": "advance, progress",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "降",
+    "on_yomi": "コウ",
+    "kun_yomi": "お-りる",
+    "meaning": "descend, get off",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "離",
+    "on_yomi": "リ",
+    "kun_yomi": "はな-れる",
+    "meaning": "separate, leave",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "婚",
+    "on_yomi": "コン",
+    "kun_yomi": "-",
+    "meaning": "marriage",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "独",
+    "on_yomi": "ドク",
+    "kun_yomi": "ひと-り",
+    "meaning": "alone, single",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "身",
+    "on_yomi": "シン",
+    "kun_yomi": "み",
+    "meaning": "body, self",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "既",
+    "on_yomi": "キ",
+    "kun_yomi": "すで-に",
+    "meaning": "already",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "夫",
+    "on_yomi": "フ",
+    "kun_yomi": "おっと",
+    "meaning": "husband",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "婦",
+    "on_yomi": "フ",
+    "kun_yomi": "-",
+    "meaning": "woman, wife",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "妻",
+    "on_yomi": "サイ",
+    "kun_yomi": "つま",
+    "meaning": "wife",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "恋",
+    "on_yomi": "レン",
+    "kun_yomi": "こい",
+    "meaning": "romantic love",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "愛",
+    "on_yomi": "アイ",
+    "kun_yomi": "-",
+    "meaning": "love",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "兄",
+    "on_yomi": "ケイ、キョウ",
+    "kun_yomi": "あに",
+    "meaning": "older brother",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "弟",
+    "on_yomi": "テイ、ダイ",
+    "kun_yomi": "おとうと",
+    "meaning": "younger brother",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "姉",
+    "on_yomi": "シ",
+    "kun_yomi": "あね",
+    "meaning": "older sister",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "妹",
+    "on_yomi": "マイ",
+    "kun_yomi": "いもうと",
+    "meaning": "younger sister",
+    "level": "N3",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "症",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "symptom",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "診",
+    "on_yomi": "シン",
+    "kun_yomi": "み-る",
+    "meaning": "examine (medically)",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "療",
+    "on_yomi": "リョウ",
+    "kun_yomi": "-",
+    "meaning": "medical treatment",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "養",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "やしな-う",
+    "meaning": "nourish, foster",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "薬",
+    "on_yomi": "ヤク",
+    "kun_yomi": "くすり",
+    "meaning": "medicine",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "剤",
+    "on_yomi": "ザイ",
+    "kun_yomi": "-",
+    "meaning": "dose, agent (medicine)",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "処",
+    "on_yomi": "ショ",
+    "kun_yomi": "-",
+    "meaning": "deal with, dispose",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "患",
+    "on_yomi": "カン",
+    "kun_yomi": "わずら-う",
+    "meaning": "suffer (illness), afflict",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "喜",
+    "on_yomi": "キ",
+    "kun_yomi": "よろこ-ぶ",
+    "meaning": "joy, delight",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "怒",
+    "on_yomi": "ド",
+    "kun_yomi": "いか-る",
+    "meaning": "anger",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "哀",
+    "on_yomi": "アイ",
+    "kun_yomi": "あわ-れ",
+    "meaning": "sorrow, pathos",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "悲",
+    "on_yomi": "ヒ",
+    "kun_yomi": "かな-しい",
+    "meaning": "sad",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "糖",
+    "on_yomi": "トウ",
+    "kun_yomi": "-",
+    "meaning": "sugar",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "乳",
+    "on_yomi": "ニュウ",
+    "kun_yomi": "ちち、ち",
+    "meaning": "milk, breast",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "卵",
+    "on_yomi": "ラン",
+    "kun_yomi": "たまご",
+    "meaning": "egg",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "肉",
+    "on_yomi": "ニク",
+    "kun_yomi": "-",
+    "meaning": "meat",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "菜",
+    "on_yomi": "サイ",
+    "kun_yomi": "な",
+    "meaning": "vegetable, greens",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "穀",
+    "on_yomi": "コク",
+    "kun_yomi": "-",
+    "meaning": "grain",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "豆",
+    "on_yomi": "トウ",
+    "kun_yomi": "まめ",
+    "meaning": "bean",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "麦",
+    "on_yomi": "バク",
+    "kun_yomi": "むぎ",
+    "meaning": "wheat, barley",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "酢",
+    "on_yomi": "サク",
+    "kun_yomi": "す",
+    "meaning": "vinegar",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "醤",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "soy sauce (used in 醤油)",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "鍋",
+    "on_yomi": "カ",
+    "kun_yomi": "なべ",
+    "meaning": "pot, pan",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "皿",
+    "on_yomi": "ベイ",
+    "kun_yomi": "さら",
+    "meaning": "plate, dish",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "箸",
+    "on_yomi": "チョ",
+    "kun_yomi": "はし",
+    "meaning": "chopsticks",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "丼",
+    "on_yomi": "トン",
+    "kun_yomi": "どんぶり",
+    "meaning": "rice bowl dish",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "麺",
+    "on_yomi": "メン",
+    "kun_yomi": "-",
+    "meaning": "noodles",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "汁",
+    "on_yomi": "ジュウ",
+    "kun_yomi": "しる",
+    "meaning": "soup, juice",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "漬",
+    "on_yomi": "シ",
+    "kun_yomi": "つ-ける",
+    "meaning": "pickle, soak",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "炒",
+    "on_yomi": "ショウ",
+    "kun_yomi": "いた-める",
+    "meaning": "stir-fry",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "揚",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "あ-げる",
+    "meaning": "deep-fry, raise",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "焦",
+    "on_yomi": "ショウ",
+    "kun_yomi": "こ-げる",
+    "meaning": "scorch, burn",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "盛",
+    "on_yomi": "セイ、ジョウ",
+    "kun_yomi": "も-る",
+    "meaning": "heap up, prosper",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "盗",
+    "on_yomi": "トウ",
+    "kun_yomi": "ぬす-む",
+    "meaning": "steal",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "奪",
+    "on_yomi": "ダツ",
+    "kun_yomi": "うば-う",
+    "meaning": "snatch, deprive",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "殺",
+    "on_yomi": "サツ",
+    "kun_yomi": "ころ-す",
+    "meaning": "kill",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "傷",
+    "on_yomi": "ショウ",
+    "kun_yomi": "きず",
+    "meaning": "wound, injury",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "咳",
+    "on_yomi": "ガイ",
+    "kun_yomi": "せき",
+    "meaning": "cough",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "吐",
+    "on_yomi": "ト",
+    "kun_yomi": "は-く",
+    "meaning": "vomit, spew",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "尿",
+    "on_yomi": "ニョウ",
+    "kun_yomi": "-",
+    "meaning": "urine",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "涙",
+    "on_yomi": "ルイ",
+    "kun_yomi": "なみだ",
+    "meaning": "tears",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "痛",
+    "on_yomi": "ツウ",
+    "kun_yomi": "いた-い",
+    "meaning": "pain",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "腫",
+    "on_yomi": "シュ",
+    "kun_yomi": "は-れる",
+    "meaning": "swell",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "癒",
+    "on_yomi": "ユ",
+    "kun_yomi": "い-える",
+    "meaning": "heal",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "治",
+    "on_yomi": "ジ、チ",
+    "kun_yomi": "なお-る",
+    "meaning": "cure, govern",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "癌",
+    "on_yomi": "ガン",
+    "kun_yomi": "-",
+    "meaning": "cancer",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "腸",
+    "on_yomi": "チョウ",
+    "kun_yomi": "-",
+    "meaning": "intestines",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "胃",
+    "on_yomi": "イ",
+    "kun_yomi": "-",
+    "meaning": "stomach",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "肺",
+    "on_yomi": "ハイ",
+    "kun_yomi": "-",
+    "meaning": "lungs",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "骨",
+    "on_yomi": "コツ",
+    "kun_yomi": "ほね",
+    "meaning": "bone",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "筋",
+    "on_yomi": "キン",
+    "kun_yomi": "すじ",
+    "meaning": "muscle, line",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "脳",
+    "on_yomi": "ノウ",
+    "kun_yomi": "-",
+    "meaning": "brain",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "肝",
+    "on_yomi": "カン",
+    "kun_yomi": "きも",
+    "meaning": "liver",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "脈",
+    "on_yomi": "ミャク",
+    "kun_yomi": "-",
+    "meaning": "pulse, vein",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "拍",
+    "on_yomi": "ハク",
+    "kun_yomi": "-",
+    "meaning": "clap, beat",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "呼",
+    "on_yomi": "コ",
+    "kun_yomi": "よ-ぶ",
+    "meaning": "call, exhale",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "吸",
+    "on_yomi": "キュウ",
+    "kun_yomi": "す-う",
+    "meaning": "inhale, suck",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "布",
+    "on_yomi": "フ",
+    "kun_yomi": "ぬの",
+    "meaning": "cloth",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "糸",
+    "on_yomi": "シ",
+    "kun_yomi": "いと",
+    "meaning": "thread",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "綿",
+    "on_yomi": "メン",
+    "kun_yomi": "わた",
+    "meaning": "cotton",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "毛",
+    "on_yomi": "モウ",
+    "kun_yomi": "け",
+    "meaning": "hair, fur",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "皮",
+    "on_yomi": "ヒ",
+    "kun_yomi": "かわ",
+    "meaning": "skin, leather",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "革",
+    "on_yomi": "カク",
+    "kun_yomi": "かわ",
+    "meaning": "leather, reform",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "靴",
+    "on_yomi": "カ",
+    "kun_yomi": "くつ",
+    "meaning": "shoe",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "帽",
+    "on_yomi": "ボウ",
+    "kun_yomi": "-",
+    "meaning": "hat, cap",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "傘",
+    "on_yomi": "サン",
+    "kun_yomi": "かさ",
+    "meaning": "umbrella",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "袋",
+    "on_yomi": "タイ",
+    "kun_yomi": "ふくろ",
+    "meaning": "bag",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "包",
+    "on_yomi": "ホウ",
+    "kun_yomi": "つつ-む",
+    "meaning": "wrap",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "箱",
+    "on_yomi": "ソウ",
+    "kun_yomi": "はこ",
+    "meaning": "box",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "紙",
+    "on_yomi": "シ",
+    "kun_yomi": "かみ",
+    "meaning": "paper",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "針",
+    "on_yomi": "シン",
+    "kun_yomi": "はり",
+    "meaning": "needle",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "釘",
+    "on_yomi": "テイ",
+    "kun_yomi": "くぎ",
+    "meaning": "nail",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "試",
+    "on_yomi": "シ",
+    "kun_yomi": "こころ-みる",
+    "meaning": "try, test",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "奨",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "encourage",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "励",
+    "on_yomi": "レイ",
+    "kun_yomi": "はげ-む",
+    "meaning": "strive, encourage",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "勉",
+    "on_yomi": "ベン",
+    "kun_yomi": "-",
+    "meaning": "diligent, exert",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "怠",
+    "on_yomi": "タイ",
+    "kun_yomi": "おこた-る",
+    "meaning": "neglect, be lazy",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "惰",
+    "on_yomi": "ダ",
+    "kun_yomi": "-",
+    "meaning": "lazy, inertia",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "勤",
+    "on_yomi": "キン",
+    "kun_yomi": "つと-める",
+    "meaning": "work, serve",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "球",
+    "on_yomi": "キュウ",
+    "kun_yomi": "たま",
+    "meaning": "ball, sphere",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "打",
+    "on_yomi": "ダ",
+    "kun_yomi": "う-つ",
+    "meaning": "hit, strike",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "捕",
+    "on_yomi": "ホ",
+    "kun_yomi": "と-らえる",
+    "meaning": "catch, capture",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "蹴",
+    "on_yomi": "シュウ",
+    "kun_yomi": "け-る",
+    "meaning": "kick",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "泳",
+    "on_yomi": "エイ",
+    "kun_yomi": "およ-ぐ",
+    "meaning": "swim",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "潜",
+    "on_yomi": "セン",
+    "kun_yomi": "もぐ-る",
+    "meaning": "submerge, hide",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "跳",
+    "on_yomi": "チョウ",
+    "kun_yomi": "と-ぶ",
+    "meaning": "jump, leap",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "飛",
+    "on_yomi": "ヒ",
+    "kun_yomi": "と-ぶ",
+    "meaning": "fly",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "走",
+    "on_yomi": "ソウ",
+    "kun_yomi": "はし-る",
+    "meaning": "run",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "森",
+    "on_yomi": "シン",
+    "kun_yomi": "もり",
+    "meaning": "forest",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "草",
+    "on_yomi": "ソウ",
+    "kun_yomi": "くさ",
+    "meaning": "grass",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "葉",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "は",
+    "meaning": "leaf",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "根",
+    "on_yomi": "コン",
+    "kun_yomi": "ね",
+    "meaning": "root",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "枝",
+    "on_yomi": "シ",
+    "kun_yomi": "えだ",
+    "meaning": "branch",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "芽",
+    "on_yomi": "ガ",
+    "kun_yomi": "め",
+    "meaning": "bud, sprout",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "咲",
+    "on_yomi": "-",
+    "kun_yomi": "さ-く",
+    "meaning": "bloom",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "雲",
+    "on_yomi": "ウン",
+    "kun_yomi": "くも",
+    "meaning": "cloud",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "雪",
+    "on_yomi": "セツ",
+    "kun_yomi": "ゆき",
+    "meaning": "snow",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "霧",
+    "on_yomi": "ム",
+    "kun_yomi": "きり",
+    "meaning": "fog",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "露",
+    "on_yomi": "ロ",
+    "kun_yomi": "つゆ",
+    "meaning": "dew, exposed",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "霜",
+    "on_yomi": "ソウ",
+    "kun_yomi": "しも",
+    "meaning": "frost",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "雷",
+    "on_yomi": "ライ",
+    "kun_yomi": "かみなり",
+    "meaning": "thunder",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "虹",
+    "on_yomi": "コウ",
+    "kun_yomi": "にじ",
+    "meaning": "rainbow",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "星",
+    "on_yomi": "セイ",
+    "kun_yomi": "ほし",
+    "meaning": "star",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "宇",
+    "on_yomi": "ウ",
+    "kun_yomi": "-",
+    "meaning": "eaves, space (宇宙)",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "宙",
+    "on_yomi": "チュウ",
+    "kun_yomi": "-",
+    "meaning": "space, mid-air",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "銀",
+    "on_yomi": "ギン",
+    "kun_yomi": "-",
+    "meaning": "silver",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "河",
+    "on_yomi": "カ",
+    "kun_yomi": "かわ",
+    "meaning": "river (large)",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "赤",
+    "on_yomi": "セキ",
+    "kun_yomi": "あか-い",
+    "meaning": "red",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "青",
+    "on_yomi": "セイ",
+    "kun_yomi": "あお-い",
+    "meaning": "blue, green",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "黒",
+    "on_yomi": "コク",
+    "kun_yomi": "くろ-い",
+    "meaning": "black",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "紫",
+    "on_yomi": "シ",
+    "kun_yomi": "むらさき",
+    "meaning": "purple",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "緑",
+    "on_yomi": "リョク",
+    "kun_yomi": "みどり",
+    "meaning": "green",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "茶",
+    "on_yomi": "チャ、サ",
+    "kun_yomi": "-",
+    "meaning": "tea",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "灰",
+    "on_yomi": "カイ",
+    "kun_yomi": "はい",
+    "meaning": "ash",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "央",
+    "on_yomi": "オウ",
+    "kun_yomi": "-",
+    "meaning": "center",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "側",
+    "on_yomi": "ソク",
+    "kun_yomi": "がわ",
+    "meaning": "side",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "隣",
+    "on_yomi": "リン",
+    "kun_yomi": "となり",
+    "meaning": "neighbor, next to",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "辺",
+    "on_yomi": "ヘン",
+    "kun_yomi": "あた-り",
+    "meaning": "area, vicinity",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "近",
+    "on_yomi": "キン",
+    "kun_yomi": "ちか-い",
+    "meaning": "near",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "遠",
+    "on_yomi": "エン",
+    "kun_yomi": "とお-い",
+    "meaning": "far",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "昔",
+    "on_yomi": "セキ",
+    "kun_yomi": "むかし",
+    "meaning": "long ago",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "将",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "general, leader, about to",
+    "level": "N3",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "奏",
+    "on_yomi": "ソウ",
+    "kun_yomi": "かな-でる",
+    "meaning": "play (music)",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "依",
+    "on_yomi": "イ、エ",
+    "kun_yomi": "よ-る",
+    "meaning": "rely on",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "越",
+    "on_yomi": "エツ",
+    "kun_yomi": "こ-える",
+    "meaning": "cross over, exceed",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "援",
+    "on_yomi": "エン",
+    "kun_yomi": "-",
+    "meaning": "assist",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "煙",
+    "on_yomi": "エン",
+    "kun_yomi": "けむり",
+    "meaning": "smoke",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "縁",
+    "on_yomi": "エン",
+    "kun_yomi": "ふち",
+    "meaning": "edge, relation, fate",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "汚",
+    "on_yomi": "オ",
+    "kun_yomi": "よご-す",
+    "meaning": "dirty, disgrace",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "奥",
+    "on_yomi": "オウ",
+    "kun_yomi": "おく",
+    "meaning": "interior, depths",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "億",
+    "on_yomi": "オク",
+    "kun_yomi": "-",
+    "meaning": "hundred million",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "獲",
+    "on_yomi": "カク",
+    "kun_yomi": "え-る",
+    "meaning": "catch, obtain",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "乾",
+    "on_yomi": "カン",
+    "kun_yomi": "かわ-く",
+    "meaning": "dry",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "幹",
+    "on_yomi": "カン",
+    "kun_yomi": "みき",
+    "meaning": "trunk, main part",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "含",
+    "on_yomi": "ガン",
+    "kun_yomi": "ふく-む",
+    "meaning": "contain",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "顔",
+    "on_yomi": "ガン",
+    "kun_yomi": "かお",
+    "meaning": "face",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "揮",
+    "on_yomi": "キ",
+    "kun_yomi": "-",
+    "meaning": "wield, command",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "輝",
+    "on_yomi": "キ",
+    "kun_yomi": "かがや-く",
+    "meaning": "shine",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "儀",
+    "on_yomi": "ギ",
+    "kun_yomi": "-",
+    "meaning": "ceremony, rule",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "却",
+    "on_yomi": "キャク",
+    "kun_yomi": "-",
+    "meaning": "reject, back",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "脚",
+    "on_yomi": "キャク",
+    "kun_yomi": "あし",
+    "meaning": "leg",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "及",
+    "on_yomi": "キュウ",
+    "kun_yomi": "およ-ぶ",
+    "meaning": "reach, extend to",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "巨",
+    "on_yomi": "キョ",
+    "kun_yomi": "-",
+    "meaning": "giant, huge",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "拠",
+    "on_yomi": "キョ、コ",
+    "kun_yomi": "よ-る",
+    "meaning": "base, basis",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "距",
+    "on_yomi": "キョ",
+    "kun_yomi": "-",
+    "meaning": "distance",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "御",
+    "on_yomi": "ギョ、ゴ",
+    "kun_yomi": "おん",
+    "meaning": "honorific prefix, control",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "叫",
+    "on_yomi": "キョウ",
+    "kun_yomi": "さけ-ぶ",
+    "meaning": "shout",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "狭",
+    "on_yomi": "キョウ",
+    "kun_yomi": "せま-い",
+    "meaning": "narrow",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "恐",
+    "on_yomi": "キョウ",
+    "kun_yomi": "おそ-れる",
+    "meaning": "fear",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "鏡",
+    "on_yomi": "キョウ",
+    "kun_yomi": "かがみ",
+    "meaning": "mirror",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "驚",
+    "on_yomi": "キョウ",
+    "kun_yomi": "おどろ-く",
+    "meaning": "surprise",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "仰",
+    "on_yomi": "ギョウ、コウ",
+    "kun_yomi": "あお-ぐ",
+    "meaning": "look up, respect",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "緊",
+    "on_yomi": "キン",
+    "kun_yomi": "-",
+    "meaning": "tighten, tense",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "茎",
+    "on_yomi": "ケイ",
+    "kun_yomi": "くき",
+    "meaning": "stem (plant)",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "径",
+    "on_yomi": "ケイ",
+    "kun_yomi": "-",
+    "meaning": "diameter, path",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "型",
+    "on_yomi": "ケイ",
+    "kun_yomi": "かた",
+    "meaning": "model, type",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "敬",
+    "on_yomi": "ケイ",
+    "kun_yomi": "うやま-う",
+    "meaning": "respect",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "警",
+    "on_yomi": "ケイ",
+    "kun_yomi": "-",
+    "meaning": "alert, admonish",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "劇",
+    "on_yomi": "ゲキ",
+    "kun_yomi": "-",
+    "meaning": "drama, severe",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "激",
+    "on_yomi": "ゲキ",
+    "kun_yomi": "はげ-しい",
+    "meaning": "intense",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "穴",
+    "on_yomi": "ケツ",
+    "kun_yomi": "あな",
+    "meaning": "hole",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "血",
+    "on_yomi": "ケツ",
+    "kun_yomi": "ち",
+    "meaning": "blood",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "絹",
+    "on_yomi": "ケン",
+    "kun_yomi": "きぬ",
+    "meaning": "silk",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "券",
+    "on_yomi": "ケン",
+    "kun_yomi": "-",
+    "meaning": "ticket, certificate",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "兼",
+    "on_yomi": "ケン",
+    "kun_yomi": "か-ねる",
+    "meaning": "concurrently",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "剣",
+    "on_yomi": "ケン",
+    "kun_yomi": "つるぎ",
+    "meaning": "sword",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "軒",
+    "on_yomi": "ケン",
+    "kun_yomi": "のき",
+    "meaning": "eaves, counter for houses",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "圏",
+    "on_yomi": "ケン",
+    "kun_yomi": "-",
+    "meaning": "sphere, zone",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "堅",
+    "on_yomi": "ケン",
+    "kun_yomi": "かた-い",
+    "meaning": "hard, solid",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "肩",
+    "on_yomi": "ケン",
+    "kun_yomi": "かた",
+    "meaning": "shoulder",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "倹",
+    "on_yomi": "ケン",
+    "kun_yomi": "-",
+    "meaning": "frugal",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "隔",
+    "on_yomi": "カク",
+    "kun_yomi": "へだ-てる",
+    "meaning": "separate, isolate",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "政",
+    "on_yomi": "セイ、ショウ",
+    "kun_yomi": "まつりごと",
+    "meaning": "politics, government",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "策",
+    "on_yomi": "サク",
+    "kun_yomi": "-",
+    "meaning": "policy, plan",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "党",
+    "on_yomi": "トウ",
+    "kun_yomi": "-",
+    "meaning": "party (political)",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "派",
+    "on_yomi": "ハ",
+    "kun_yomi": "-",
+    "meaning": "faction, sect",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "閣",
+    "on_yomi": "カク",
+    "kun_yomi": "-",
+    "meaning": "cabinet (government), tower",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "僚",
+    "on_yomi": "リョウ",
+    "kun_yomi": "-",
+    "meaning": "colleague, official",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "臣",
+    "on_yomi": "シン、ジン",
+    "kun_yomi": "-",
+    "meaning": "retainer, subject",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "陛",
+    "on_yomi": "ヘイ",
+    "kun_yomi": "-",
+    "meaning": "(used in 陛下, Your Majesty)",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "皇",
+    "on_yomi": "コウ、オウ",
+    "kun_yomi": "-",
+    "meaning": "emperor",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "王",
+    "on_yomi": "オウ",
+    "kun_yomi": "-",
+    "meaning": "king",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "勲",
+    "on_yomi": "クン",
+    "kun_yomi": "-",
+    "meaning": "meritorious deed",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "章",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "chapter, badge",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "賞",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "prize, praise",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "罰",
+    "on_yomi": "バツ、バチ",
+    "kun_yomi": "-",
+    "meaning": "punishment",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "刑",
+    "on_yomi": "ケイ",
+    "kun_yomi": "-",
+    "meaning": "punishment (criminal)",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "裁",
+    "on_yomi": "サイ",
+    "kun_yomi": "さば-く",
+    "meaning": "judge, cut (cloth)",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "訴",
+    "on_yomi": "ソ",
+    "kun_yomi": "うった-える",
+    "meaning": "sue, appeal",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "訟",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "lawsuit",
+    "level": "N2",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "弁",
+    "on_yomi": "ベン",
+    "kun_yomi": "-",
+    "meaning": "speech, valve, petal",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "士",
+    "on_yomi": "シ",
+    "kun_yomi": "-",
+    "meaning": "warrior, samurai, -ist",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "兵",
+    "on_yomi": "ヘイ、ヒョウ",
+    "kun_yomi": "-",
+    "meaning": "soldier",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "軍",
+    "on_yomi": "グン",
+    "kun_yomi": "-",
+    "meaning": "army, military",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "隊",
+    "on_yomi": "タイ",
+    "kun_yomi": "-",
+    "meaning": "squad, unit",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "陣",
+    "on_yomi": "ジン",
+    "kun_yomi": "-",
+    "meaning": "battle position, camp",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "営",
+    "on_yomi": "エイ",
+    "kun_yomi": "いとな-む",
+    "meaning": "manage, operate",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "矛",
+    "on_yomi": "ム",
+    "kun_yomi": "ほこ",
+    "meaning": "spear, halberd",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "砲",
+    "on_yomi": "ホウ",
+    "kun_yomi": "-",
+    "meaning": "gun, cannon",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "弾",
+    "on_yomi": "ダン",
+    "kun_yomi": "たま",
+    "meaning": "bullet, elastic",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "爆",
+    "on_yomi": "バク",
+    "kun_yomi": "-",
+    "meaning": "explode",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "銃",
+    "on_yomi": "ジュウ",
+    "kun_yomi": "-",
+    "meaning": "gun, firearm",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "刀",
+    "on_yomi": "トウ",
+    "kun_yomi": "かたな",
+    "meaning": "sword",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "伝",
+    "on_yomi": "デン",
+    "kun_yomi": "つた-える",
+    "meaning": "transmit, legend",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "播",
+    "on_yomi": "ハ",
+    "kun_yomi": "-",
+    "meaning": "sow, scatter (broadcast)",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "信",
+    "on_yomi": "シン",
+    "kun_yomi": "-",
+    "meaning": "trust, believe, faith",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "頼",
+    "on_yomi": "ライ",
+    "kun_yomi": "たよ-る",
+    "meaning": "rely",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "存",
+    "on_yomi": "ソン、ゾン",
+    "kun_yomi": "-",
+    "meaning": "exist",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "在",
+    "on_yomi": "ザイ",
+    "kun_yomi": "あ-る",
+    "meaning": "exist, be located",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "彫",
+    "on_yomi": "チョウ",
+    "kun_yomi": "ほ-る",
+    "meaning": "carve",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "刻",
+    "on_yomi": "コク",
+    "kun_yomi": "きざ-む",
+    "meaning": "engrave, time",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "塗",
+    "on_yomi": "ト",
+    "kun_yomi": "ぬ-る",
+    "meaning": "paint, coat",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "装",
+    "on_yomi": "ソウ、ショウ",
+    "kun_yomi": "よそお-う",
+    "meaning": "equip, pretend",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "飾",
+    "on_yomi": "ショク",
+    "kun_yomi": "かざ-る",
+    "meaning": "decorate",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "織",
+    "on_yomi": "シキ、ショク",
+    "kun_yomi": "お-る",
+    "meaning": "weave",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "縫",
+    "on_yomi": "ホウ",
+    "kun_yomi": "ぬ-う",
+    "meaning": "sew",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "紡",
+    "on_yomi": "ボウ",
+    "kun_yomi": "つむ-ぐ",
+    "meaning": "spin (thread)",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "枚",
+    "on_yomi": "マイ",
+    "kun_yomi": "-",
+    "meaning": "counter for flat objects",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "片",
+    "on_yomi": "ヘン",
+    "kun_yomi": "かた",
+    "meaning": "piece, fragment",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "塊",
+    "on_yomi": "カイ",
+    "kun_yomi": "かたまり",
+    "meaning": "lump, mass",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "粒",
+    "on_yomi": "リュウ",
+    "kun_yomi": "つぶ",
+    "meaning": "grain, drop",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "滴",
+    "on_yomi": "テキ",
+    "kun_yomi": "しずく",
+    "meaning": "drop (liquid)",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "粉",
+    "on_yomi": "フン",
+    "kun_yomi": "こな、こ",
+    "meaning": "powder, flour",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "液",
+    "on_yomi": "エキ",
+    "kun_yomi": "-",
+    "meaning": "liquid",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "蒸",
+    "on_yomi": "ジョウ",
+    "kun_yomi": "む-す",
+    "meaning": "steam",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "沸",
+    "on_yomi": "フツ",
+    "kun_yomi": "わ-く",
+    "meaning": "boil",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "騰",
+    "on_yomi": "トウ",
+    "kun_yomi": "-",
+    "meaning": "soar, rise",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "凍",
+    "on_yomi": "トウ",
+    "kun_yomi": "こお-る",
+    "meaning": "freeze",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "晶",
+    "on_yomi": "ショウ",
+    "kun_yomi": "-",
+    "meaning": "crystal",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "溶",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "と-ける",
+    "meaning": "melt, dissolve",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "酸",
+    "on_yomi": "サン",
+    "kun_yomi": "す-い",
+    "meaning": "acid, sour",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "塩",
+    "on_yomi": "エン",
+    "kun_yomi": "しお",
+    "meaning": "salt",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "素",
+    "on_yomi": "ソ",
+    "kun_yomi": "-",
+    "meaning": "element, plain",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "元",
+    "on_yomi": "ゲン、ガン",
+    "kun_yomi": "もと",
+    "meaning": "origin, former",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "核",
+    "on_yomi": "カク",
+    "kun_yomi": "-",
+    "meaning": "nucleus, core",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "陽",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "-",
+    "meaning": "sun, positive",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "陰",
+    "on_yomi": "イン",
+    "kun_yomi": "かげ",
+    "meaning": "shade, negative",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "磁",
+    "on_yomi": "ジ",
+    "kun_yomi": "-",
+    "meaning": "magnetism",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "周",
+    "on_yomi": "シュウ",
+    "kun_yomi": "まわ-り",
+    "meaning": "circumference, around",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "密",
+    "on_yomi": "ミツ",
+    "kun_yomi": "-",
+    "meaning": "dense, secret",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "濃",
+    "on_yomi": "ノウ",
+    "kun_yomi": "こ-い",
+    "meaning": "thick, dense (liquid)",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "淡",
+    "on_yomi": "タン",
+    "kun_yomi": "あわ-い",
+    "meaning": "light, pale",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "薄",
+    "on_yomi": "ハク",
+    "kun_yomi": "うす-い",
+    "meaning": "thin, weak",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "厚",
+    "on_yomi": "コウ",
+    "kun_yomi": "あつ-い",
+    "meaning": "thick",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "鋭",
+    "on_yomi": "エイ",
+    "kun_yomi": "するど-い",
+    "meaning": "sharp, keen",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "鈍",
+    "on_yomi": "ドン",
+    "kun_yomi": "にぶ-い",
+    "meaning": "dull",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "滑",
+    "on_yomi": "カツ",
+    "kun_yomi": "すべ-る",
+    "meaning": "slip, smooth",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "粗",
+    "on_yomi": "ソ",
+    "kun_yomi": "あら-い",
+    "meaning": "rough, coarse",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "柔",
+    "on_yomi": "ジュウ、ニュウ",
+    "kun_yomi": "やわ-らかい",
+    "meaning": "soft, flexible",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "軟",
+    "on_yomi": "ナン",
+    "kun_yomi": "やわ-らかい",
+    "meaning": "soft",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "脆",
+    "on_yomi": "ゼイ",
+    "kun_yomi": "もろ-い",
+    "meaning": "fragile",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "丈",
+    "on_yomi": "ジョウ",
+    "kun_yomi": "たけ",
+    "meaning": "height, length",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "替",
+    "on_yomi": "タイ",
+    "kun_yomi": "か-える",
+    "meaning": "exchange, replace",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "換",
+    "on_yomi": "カン",
+    "kun_yomi": "か-える",
+    "meaning": "exchange, convert",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "渡",
+    "on_yomi": "ト",
+    "kun_yomi": "わた-る",
+    "meaning": "cross over, hand over",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "譲",
+    "on_yomi": "ジョウ",
+    "kun_yomi": "ゆず-る",
+    "meaning": "yield, transfer",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "還",
+    "on_yomi": "カン",
+    "kun_yomi": "-",
+    "meaning": "return",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "戻",
+    "on_yomi": "レイ",
+    "kun_yomi": "もど-る",
+    "meaning": "return, go back",
+    "level": "N2",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "返",
+    "on_yomi": "ヘン",
+    "kun_yomi": "かえ-す",
+    "meaning": "return (something)",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "紋",
+    "on_yomi": "モン",
+    "kun_yomi": "-",
+    "meaning": "crest, pattern",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "鑑",
+    "on_yomi": "カン",
+    "kun_yomi": "かんが-みる",
+    "meaning": "mirror, model, judge",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "款",
+    "on_yomi": "カン",
+    "kun_yomi": "-",
+    "meaning": "section, article (of law)",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "項",
+    "on_yomi": "コウ",
+    "kun_yomi": "-",
+    "meaning": "clause, item",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "附",
+    "on_yomi": "フ",
+    "kun_yomi": "-",
+    "meaning": "attach (variant of 付)",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "但",
+    "on_yomi": "タン",
+    "kun_yomi": "ただ-し",
+    "meaning": "however, but",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "尚",
+    "on_yomi": "ショウ",
+    "kun_yomi": "なお",
+    "meaning": "still, furthermore",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "且",
+    "on_yomi": "ショ",
+    "kun_yomi": "か-つ",
+    "meaning": "and, moreover",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "或",
+    "on_yomi": "ワク",
+    "kun_yomi": "ある-いは",
+    "meaning": "or, some",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "若",
+    "on_yomi": "ジャク、ニャク",
+    "kun_yomi": "わか-い",
+    "meaning": "young, if",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "如",
+    "on_yomi": "ジョ、ニョ",
+    "kun_yomi": "ごと-し",
+    "meaning": "as if, like",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "仮",
+    "on_yomi": "カ",
+    "kun_yomi": "かり",
+    "meaning": "temporary, assumed",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "偽",
+    "on_yomi": "ギ",
+    "kun_yomi": "にせ",
+    "meaning": "false, fake",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "虚",
+    "on_yomi": "キョ",
+    "kun_yomi": "むな-しい",
+    "meaning": "empty, false",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "妙",
+    "on_yomi": "ミョウ",
+    "kun_yomi": "-",
+    "meaning": "strange, exquisite",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "奇",
+    "on_yomi": "キ",
+    "kun_yomi": "-",
+    "meaning": "strange, odd (number)",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "怪",
+    "on_yomi": "カイ",
+    "kun_yomi": "あや-しい",
+    "meaning": "suspicious, mysterious",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "魅",
+    "on_yomi": "ミ",
+    "kun_yomi": "-",
+    "meaning": "charm, fascinate",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "惹",
+    "on_yomi": "ジャク",
+    "kun_yomi": "ひ-く",
+    "meaning": "attract, draw",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "為",
+    "on_yomi": "イ",
+    "kun_yomi": "ため",
+    "meaning": "for the sake of, do",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "需",
+    "on_yomi": "ジュ",
+    "kun_yomi": "-",
+    "meaning": "demand, need",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "供",
+    "on_yomi": "キョウ",
+    "kun_yomi": "そな-える",
+    "meaning": "offer, accompany",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "建",
+    "on_yomi": "ケン",
+    "kun_yomi": "た-てる",
+    "meaning": "build",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "築",
+    "on_yomi": "チク",
+    "kun_yomi": "きず-く",
+    "meaning": "construct",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "構",
+    "on_yomi": "コウ",
+    "kun_yomi": "かま-える",
+    "meaning": "structure, set up",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "造",
+    "on_yomi": "ゾウ",
+    "kun_yomi": "つく-る",
+    "meaning": "make, create",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "質",
+    "on_yomi": "シツ",
+    "kun_yomi": "-",
+    "meaning": "quality, substance",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "振",
+    "on_yomi": "シン",
+    "kun_yomi": "ふ-る",
+    "meaning": "shake, wave",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "相",
+    "on_yomi": "ソウ、ショウ",
+    "kun_yomi": "あい",
+    "meaning": "mutual, phase",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "互",
+    "on_yomi": "ゴ",
+    "kun_yomi": "たが-い",
+    "meaning": "mutual, each other",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "双",
+    "on_yomi": "ソウ",
+    "kun_yomi": "ふた",
+    "meaning": "pair, both",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "粋",
+    "on_yomi": "スイ",
+    "kun_yomi": "いき",
+    "meaning": "essence, stylish",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "精",
+    "on_yomi": "セイ、ショウ",
+    "kun_yomi": "-",
+    "meaning": "spirit, refined",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "神",
+    "on_yomi": "シン、ジン",
+    "kun_yomi": "かみ",
+    "meaning": "god, spirit",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "霊",
+    "on_yomi": "レイ",
+    "kun_yomi": "たま",
+    "meaning": "soul, spirit",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "燥",
+    "on_yomi": "ソウ",
+    "kun_yomi": "-",
+    "meaning": "dry (used in 乾燥)",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "苛",
+    "on_yomi": "カ",
+    "kun_yomi": "-",
+    "meaning": "harsh",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "酷",
+    "on_yomi": "コク",
+    "kun_yomi": "-",
+    "meaning": "cruel, severe",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "厳",
+    "on_yomi": "ゲン",
+    "kun_yomi": "きび-しい",
+    "meaning": "strict, severe",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "粛",
+    "on_yomi": "シュク",
+    "kun_yomi": "-",
+    "meaning": "solemn",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "謹",
+    "on_yomi": "キン",
+    "kun_yomi": "つつし-む",
+    "meaning": "respectfully, be discreet",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "慎",
+    "on_yomi": "シン",
+    "kun_yomi": "つつし-む",
+    "meaning": "be careful, discreet",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "遵",
+    "on_yomi": "ジュン",
+    "kun_yomi": "-",
+    "meaning": "abide by, obey",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "守",
+    "on_yomi": "シュ",
+    "kun_yomi": "まも-る",
+    "meaning": "protect, keep",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "芸",
+    "on_yomi": "ゲイ",
+    "kun_yomi": "-",
+    "meaning": "art, skill",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "美",
+    "on_yomi": "ビ",
+    "kun_yomi": "うつく-しい",
+    "meaning": "beautiful",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "舞",
+    "on_yomi": "ブ",
+    "kun_yomi": "ま-う",
+    "meaning": "dance",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "踊",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "おど-る",
+    "meaning": "dance",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "演",
+    "on_yomi": "エン",
+    "kun_yomi": "-",
+    "meaning": "perform",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "歴",
+    "on_yomi": "レキ",
+    "kun_yomi": "-",
+    "meaning": "passing through, history",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "史",
+    "on_yomi": "シ",
+    "kun_yomi": "-",
+    "meaning": "history",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "遺",
+    "on_yomi": "イ",
+    "kun_yomi": "-",
+    "meaning": "leave behind, bequeath",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "跡",
+    "on_yomi": "セキ",
+    "kun_yomi": "あと",
+    "meaning": "mark, ruins, trace",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "典",
+    "on_yomi": "テン",
+    "kun_yomi": "-",
+    "meaning": "code, ceremony",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "欲",
+    "on_yomi": "ヨク",
+    "kun_yomi": "ほ-しい",
+    "meaning": "desire",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "静",
+    "on_yomi": "セイ",
+    "kun_yomi": "しず-か",
+    "meaning": "quiet, still",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "興",
+    "on_yomi": "コウ、キョウ",
+    "kun_yomi": "おこ-る",
+    "meaning": "arise, interest",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "奮",
+    "on_yomi": "フン",
+    "kun_yomi": "ふる-う",
+    "meaning": "rouse, exert",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "虫",
+    "on_yomi": "チュウ",
+    "kun_yomi": "むし",
+    "meaning": "insect",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "鳥",
+    "on_yomi": "チョウ",
+    "kun_yomi": "とり",
+    "meaning": "bird",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "獣",
+    "on_yomi": "ジュウ",
+    "kun_yomi": "けもの",
+    "meaning": "beast",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "爪",
+    "on_yomi": "ソウ",
+    "kun_yomi": "つめ",
+    "meaning": "claw, nail",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "牙",
+    "on_yomi": "ガ",
+    "kun_yomi": "きば",
+    "meaning": "fang, tusk",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "尾",
+    "on_yomi": "ビ",
+    "kun_yomi": "お",
+    "meaning": "tail",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "翼",
+    "on_yomi": "ヨク",
+    "kun_yomi": "つばさ",
+    "meaning": "wing",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "羽",
+    "on_yomi": "ウ",
+    "kun_yomi": "はね、は",
+    "meaning": "feather, counter for birds",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "巣",
+    "on_yomi": "ソウ",
+    "kun_yomi": "す",
+    "meaning": "nest",
+    "level": "N2",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "菌",
+    "on_yomi": "キン",
+    "kun_yomi": "-",
+    "meaning": "bacteria, fungus",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "偶",
+    "on_yomi": "グウ",
+    "kun_yomi": "-",
+    "meaning": "even (number), chance",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "遇",
+    "on_yomi": "グウ",
+    "kun_yomi": "-",
+    "meaning": "treat, encounter",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "隅",
+    "on_yomi": "グウ",
+    "kun_yomi": "すみ",
+    "meaning": "corner",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "繰",
+    "on_yomi": "ソウ",
+    "kun_yomi": "く-る",
+    "meaning": "reel, turn (pages)",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "恵",
+    "on_yomi": "ケイ、エ",
+    "kun_yomi": "めぐ-む",
+    "meaning": "blessing, favor",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "傾",
+    "on_yomi": "ケイ",
+    "kun_yomi": "かたむ-く",
+    "meaning": "lean, incline",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "蛍",
+    "on_yomi": "ケイ",
+    "kun_yomi": "ほたる",
+    "meaning": "firefly",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "慶",
+    "on_yomi": "ケイ",
+    "kun_yomi": "-",
+    "meaning": "celebrate",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "憩",
+    "on_yomi": "ケイ",
+    "kun_yomi": "いこ-い",
+    "meaning": "rest, relax",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "鯨",
+    "on_yomi": "ゲイ",
+    "kun_yomi": "くじら",
+    "meaning": "whale",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "賢",
+    "on_yomi": "ケン",
+    "kun_yomi": "かしこ-い",
+    "meaning": "wise",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "幻",
+    "on_yomi": "ゲン",
+    "kun_yomi": "まぼろし",
+    "meaning": "illusion",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "弦",
+    "on_yomi": "ゲン",
+    "kun_yomi": "つる",
+    "meaning": "string (bow/instrument)",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "己",
+    "on_yomi": "コ、キ",
+    "kun_yomi": "おのれ",
+    "meaning": "self",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "呉",
+    "on_yomi": "ゴ",
+    "kun_yomi": "-",
+    "meaning": "give (humble), Wu (China)",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "娯",
+    "on_yomi": "ゴ",
+    "kun_yomi": "-",
+    "meaning": "enjoyment",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "悟",
+    "on_yomi": "ゴ",
+    "kun_yomi": "さと-る",
+    "meaning": "realize, enlighten",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "孔",
+    "on_yomi": "コウ",
+    "kun_yomi": "あな",
+    "meaning": "hole, opening",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "巧",
+    "on_yomi": "コウ",
+    "kun_yomi": "たく-み",
+    "meaning": "skillful",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "甲",
+    "on_yomi": "コウ、カン",
+    "kun_yomi": "-",
+    "meaning": "shell, first (rank)",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "拘",
+    "on_yomi": "コウ",
+    "kun_yomi": "-",
+    "meaning": "detain, adhere to",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "肯",
+    "on_yomi": "コウ",
+    "kun_yomi": "-",
+    "meaning": "agree, consent",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "恒",
+    "on_yomi": "コウ",
+    "kun_yomi": "-",
+    "meaning": "constant, permanent",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "荒",
+    "on_yomi": "コウ",
+    "kun_yomi": "あら-い",
+    "meaning": "rough, wild",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "郊",
+    "on_yomi": "コウ",
+    "kun_yomi": "-",
+    "meaning": "suburbs",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "香",
+    "on_yomi": "コウ",
+    "kun_yomi": "かお-り",
+    "meaning": "fragrance",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "貢",
+    "on_yomi": "コウ",
+    "kun_yomi": "みつ-ぐ",
+    "meaning": "tribute, contribute",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "控",
+    "on_yomi": "コウ",
+    "kun_yomi": "ひか-える",
+    "meaning": "refrain, note down",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "慌",
+    "on_yomi": "コウ",
+    "kun_yomi": "あわ-てる",
+    "meaning": "panic",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "硬",
+    "on_yomi": "コウ",
+    "kun_yomi": "かた-い",
+    "meaning": "hard, stiff",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "絞",
+    "on_yomi": "コウ",
+    "kun_yomi": "しぼ-る",
+    "meaning": "squeeze, strangle",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "綱",
+    "on_yomi": "コウ",
+    "kun_yomi": "つな",
+    "meaning": "rope, cable",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "酵",
+    "on_yomi": "コウ",
+    "kun_yomi": "-",
+    "meaning": "fermentation",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "克",
+    "on_yomi": "コク",
+    "kun_yomi": "-",
+    "meaning": "overcome",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "獄",
+    "on_yomi": "ゴク",
+    "kun_yomi": "-",
+    "meaning": "prison",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "腰",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "こし",
+    "meaning": "waist, hip",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "込",
+    "on_yomi": "-",
+    "kun_yomi": "こ-む",
+    "meaning": "crowded, include",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "昆",
+    "on_yomi": "コン",
+    "kun_yomi": "-",
+    "meaning": "descendants, insect",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "魂",
+    "on_yomi": "コン",
+    "kun_yomi": "たましい",
+    "meaning": "soul",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "懇",
+    "on_yomi": "コン",
+    "kun_yomi": "ねんご-ろ",
+    "meaning": "cordial, sincere",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "紺",
+    "on_yomi": "コン",
+    "kun_yomi": "-",
+    "meaning": "dark blue",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "詐",
+    "on_yomi": "サ",
+    "kun_yomi": "-",
+    "meaning": "deceive",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "唆",
+    "on_yomi": "サ",
+    "kun_yomi": "そそのか-す",
+    "meaning": "instigate",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "栽",
+    "on_yomi": "サイ",
+    "kun_yomi": "-",
+    "meaning": "planting, growing",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "削",
+    "on_yomi": "サク",
+    "kun_yomi": "けず-る",
+    "meaning": "shave, cut down",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "搾",
+    "on_yomi": "サク",
+    "kun_yomi": "しぼ-る",
+    "meaning": "squeeze, exploit",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "錯",
+    "on_yomi": "サク",
+    "kun_yomi": "-",
+    "meaning": "mix up, confuse",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "撮",
+    "on_yomi": "サツ",
+    "kun_yomi": "と-る",
+    "meaning": "take (photo)",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "芝",
+    "on_yomi": "シ",
+    "kun_yomi": "しば",
+    "meaning": "turf, lawn",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "殻",
+    "on_yomi": "カク",
+    "kun_yomi": "から",
+    "meaning": "shell, husk",
+    "level": "N1",
+    "difficulty": "easy"
+  },
+  {
+    "kanji": "賄",
+    "on_yomi": "ワイ",
+    "kun_yomi": "まかな-う",
+    "meaning": "bribe, cover cost",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "賂",
+    "on_yomi": "ロ",
+    "kun_yomi": "-",
+    "meaning": "bribe",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "疫",
+    "on_yomi": "エキ、ヤク",
+    "kun_yomi": "-",
+    "meaning": "epidemic",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "疾",
+    "on_yomi": "シツ",
+    "kun_yomi": "-",
+    "meaning": "disease, swift",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "膨",
+    "on_yomi": "ボウ",
+    "kun_yomi": "ふく-らむ",
+    "meaning": "swell, expand",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "脹",
+    "on_yomi": "チョウ",
+    "kun_yomi": "-",
+    "meaning": "swell (used in 膨脹)",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "萎",
+    "on_yomi": "イ",
+    "kun_yomi": "な-える",
+    "meaning": "wither, wilt",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "凝",
+    "on_yomi": "ギョウ",
+    "kun_yomi": "こ-る",
+    "meaning": "congeal, be absorbed in",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "沈",
+    "on_yomi": "チン",
+    "kun_yomi": "しず-む",
+    "meaning": "sink",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "堆",
+    "on_yomi": "タイ",
+    "kun_yomi": "うずたか-い",
+    "meaning": "heap, pile",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "覆",
+    "on_yomi": "フク",
+    "kun_yomi": "おお-う",
+    "meaning": "cover, overturn",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "履",
+    "on_yomi": "リ",
+    "kun_yomi": "は-く",
+    "meaning": "wear (shoes), carry out",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "陪",
+    "on_yomi": "バイ",
+    "kun_yomi": "-",
+    "meaning": "attend upon, accompany",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "審",
+    "on_yomi": "シン",
+    "kun_yomi": "-",
+    "meaning": "examine closely, judge",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "弊",
+    "on_yomi": "ヘイ",
+    "kun_yomi": "-",
+    "meaning": "bad practice, our (humble)",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "幣",
+    "on_yomi": "ヘイ",
+    "kun_yomi": "-",
+    "meaning": "currency, offering",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "循",
+    "on_yomi": "ジュン",
+    "kun_yomi": "-",
+    "meaning": "follow, circulate",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "巡",
+    "on_yomi": "ジュン",
+    "kun_yomi": "めぐ-る",
+    "meaning": "patrol, go around",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "遍",
+    "on_yomi": "ヘン",
+    "kun_yomi": "-",
+    "meaning": "all over, widespread",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "酌",
+    "on_yomi": "シャク",
+    "kun_yomi": "く-む",
+    "meaning": "pour (drink), consider",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "詰",
+    "on_yomi": "キツ",
+    "kun_yomi": "つ-める",
+    "meaning": "stuff, pack, blame",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "繊",
+    "on_yomi": "セン",
+    "kun_yomi": "-",
+    "meaning": "fiber, slender",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "紳",
+    "on_yomi": "シン",
+    "kun_yomi": "-",
+    "meaning": "gentleman",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "淑",
+    "on_yomi": "シュク",
+    "kun_yomi": "-",
+    "meaning": "graceful, virtuous",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "朗",
+    "on_yomi": "ロウ",
+    "kun_yomi": "ほが-らか",
+    "meaning": "cheerful, clear",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "爽",
+    "on_yomi": "ソウ",
+    "kun_yomi": "さわ-やか",
+    "meaning": "refreshing",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "快",
+    "on_yomi": "カイ",
+    "kun_yomi": "こころよ-い",
+    "meaning": "pleasant, cheerful",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "慨",
+    "on_yomi": "ガイ",
+    "kun_yomi": "-",
+    "meaning": "lament, be moved",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "嘆",
+    "on_yomi": "タン",
+    "kun_yomi": "なげ-く",
+    "meaning": "lament, admire",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "詠",
+    "on_yomi": "エイ",
+    "kun_yomi": "よ-む",
+    "meaning": "recite, compose (poem)",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "吟",
+    "on_yomi": "ギン",
+    "kun_yomi": "-",
+    "meaning": "recite, chant",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "唱",
+    "on_yomi": "ショウ",
+    "kun_yomi": "とな-える",
+    "meaning": "chant, advocate",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "誉",
+    "on_yomi": "ヨ",
+    "kun_yomi": "ほま-れ",
+    "meaning": "honor, praise",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "栄",
+    "on_yomi": "エイ",
+    "kun_yomi": "さか-える",
+    "meaning": "prosper, glory",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "辱",
+    "on_yomi": "ジョク",
+    "kun_yomi": "はずかし-める",
+    "meaning": "disgrace, insult",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "恥",
+    "on_yomi": "チ",
+    "kun_yomi": "は-じる",
+    "meaning": "shame",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "羞",
+    "on_yomi": "シュウ",
+    "kun_yomi": "-",
+    "meaning": "shy, ashamed",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "墨",
+    "on_yomi": "ボク",
+    "kun_yomi": "すみ",
+    "meaning": "ink, ink stick",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "硯",
+    "on_yomi": "ケン",
+    "kun_yomi": "すずり",
+    "meaning": "inkstone",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "筆",
+    "on_yomi": "ヒツ",
+    "kun_yomi": "ふで",
+    "meaning": "writing brush, pen",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "刃",
+    "on_yomi": "ジン",
+    "kun_yomi": "は",
+    "meaning": "blade, edge",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "柄",
+    "on_yomi": "ヘイ",
+    "kun_yomi": "え、がら",
+    "meaning": "handle, pattern",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "鍛",
+    "on_yomi": "タン",
+    "kun_yomi": "きた-える",
+    "meaning": "forge, temper",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "冶",
+    "on_yomi": "ヤ",
+    "kun_yomi": "-",
+    "meaning": "smelt, metalwork",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "錬",
+    "on_yomi": "レン",
+    "kun_yomi": "-",
+    "meaning": "refine, temper (metal)",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "鋳",
+    "on_yomi": "チュウ",
+    "kun_yomi": "い-る",
+    "meaning": "cast (metal)",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "鋼",
+    "on_yomi": "コウ",
+    "kun_yomi": "はがね",
+    "meaning": "steel",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "銅",
+    "on_yomi": "ドウ",
+    "kun_yomi": "-",
+    "meaning": "copper",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "亜",
+    "on_yomi": "ア",
+    "kun_yomi": "-",
+    "meaning": "sub-, Asia",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "硫",
+    "on_yomi": "リュウ",
+    "kun_yomi": "-",
+    "meaning": "sulfur",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "黄",
+    "on_yomi": "コウ、オウ",
+    "kun_yomi": "き",
+    "meaning": "yellow",
+    "level": "N1",
+    "difficulty": "medium"
+  },
+  {
+    "kanji": "窒",
+    "on_yomi": "チツ",
+    "kun_yomi": "-",
+    "meaning": "nitrogen, block up",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "炭",
+    "on_yomi": "タン",
+    "kun_yomi": "すみ",
+    "meaning": "charcoal, coal",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "燃",
+    "on_yomi": "ネン",
+    "kun_yomi": "も-える",
+    "meaning": "burn",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "焼",
+    "on_yomi": "ショウ",
+    "kun_yomi": "や-く",
+    "meaning": "burn, bake",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "炉",
+    "on_yomi": "ロ",
+    "kun_yomi": "-",
+    "meaning": "furnace, hearth",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "窯",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "かま",
+    "meaning": "kiln",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "煮",
+    "on_yomi": "シャ",
+    "kun_yomi": "に-る",
+    "meaning": "boil, cook",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "炊",
+    "on_yomi": "スイ",
+    "kun_yomi": "た-く",
+    "meaning": "cook (rice)",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "飯",
+    "on_yomi": "ハン",
+    "kun_yomi": "めし",
+    "meaning": "cooked rice, meal",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "暁",
+    "on_yomi": "ギョウ",
+    "kun_yomi": "あかつき",
+    "meaning": "dawn, daybreak",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "畏",
+    "on_yomi": "イ",
+    "kun_yomi": "おそ-れる",
+    "meaning": "fear, revere",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "怖",
+    "on_yomi": "フ",
+    "kun_yomi": "こわ-い",
+    "meaning": "afraid",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "威",
+    "on_yomi": "イ",
+    "kun_yomi": "-",
+    "meaning": "authority, dignity",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "脅",
+    "on_yomi": "キョウ",
+    "kun_yomi": "おびや-かす",
+    "meaning": "threaten",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "敏",
+    "on_yomi": "ビン",
+    "kun_yomi": "-",
+    "meaning": "quick, alert",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "俊",
+    "on_yomi": "シュン",
+    "kun_yomi": "-",
+    "meaning": "talented, excellent",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "逸",
+    "on_yomi": "イツ",
+    "kun_yomi": "そ-れる",
+    "meaning": "deviate, excel",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "岐",
+    "on_yomi": "キ",
+    "kun_yomi": "-",
+    "meaning": "branch off (used in 岐路)",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "路",
+    "on_yomi": "ロ",
+    "kun_yomi": "じ",
+    "meaning": "road, route",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "岬",
+    "on_yomi": "コウ",
+    "kun_yomi": "みさき",
+    "meaning": "cape (geography)",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "条",
+    "on_yomi": "ジョウ",
+    "kun_yomi": "-",
+    "meaning": "article, clause, stripe",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "冗",
+    "on_yomi": "ジョウ",
+    "kun_yomi": "-",
+    "meaning": "redundant",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "漫",
+    "on_yomi": "マン",
+    "kun_yomi": "-",
+    "meaning": "random, comic",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "散",
+    "on_yomi": "サン",
+    "kun_yomi": "ち-る",
+    "meaning": "scatter",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "慢",
+    "on_yomi": "マン",
+    "kun_yomi": "-",
+    "meaning": "arrogant, slow",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "傲",
+    "on_yomi": "ゴウ",
+    "kun_yomi": "-",
+    "meaning": "arrogant",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "卑",
+    "on_yomi": "ヒ",
+    "kun_yomi": "いや-しい",
+    "meaning": "lowly, mean",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "尊",
+    "on_yomi": "ソン",
+    "kun_yomi": "とうと-い",
+    "meaning": "noble, revere",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "崇",
+    "on_yomi": "スウ",
+    "kun_yomi": "あが-める",
+    "meaning": "worship, lofty",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "謙",
+    "on_yomi": "ケン",
+    "kun_yomi": "-",
+    "meaning": "humble",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "遜",
+    "on_yomi": "ソン",
+    "kun_yomi": "-",
+    "meaning": "modest",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "畔",
+    "on_yomi": "ハン",
+    "kun_yomi": "ほとり",
+    "meaning": "shore, bank (of water)",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "海",
+    "on_yomi": "カイ",
+    "kun_yomi": "うみ",
+    "meaning": "sea",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "洋",
+    "on_yomi": "ヨウ",
+    "kun_yomi": "-",
+    "meaning": "ocean, Western",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "潮",
+    "on_yomi": "チョウ",
+    "kun_yomi": "しお",
+    "meaning": "tide",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "流",
+    "on_yomi": "リュウ",
+    "kun_yomi": "なが-れる",
+    "meaning": "flow, current",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "漂",
+    "on_yomi": "ヒョウ",
+    "kun_yomi": "ただよ-う",
+    "meaning": "drift, float",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "浮",
+    "on_yomi": "フ",
+    "kun_yomi": "う-く",
+    "meaning": "float",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "溺",
+    "on_yomi": "デキ",
+    "kun_yomi": "おぼ-れる",
+    "meaning": "drown, be infatuated",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "息",
+    "on_yomi": "ソク",
+    "kun_yomi": "いき",
+    "meaning": "breath",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "略",
+    "on_yomi": "リャク",
+    "kun_yomi": "-",
+    "meaning": "abbreviate, strategy",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "侵",
+    "on_yomi": "シン",
+    "kun_yomi": "おか-す",
+    "meaning": "invade",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "占",
+    "on_yomi": "セン",
+    "kun_yomi": "し-める",
+    "meaning": "occupy, fortune-tell",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "領",
+    "on_yomi": "リョウ",
+    "kun_yomi": "-",
+    "meaning": "territory, dominion",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "支",
+    "on_yomi": "シ",
+    "kun_yomi": "ささ-える",
+    "meaning": "support, branch",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "干",
+    "on_yomi": "カン",
+    "kun_yomi": "ほ-す",
+    "meaning": "dry, related to",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "位",
+    "on_yomi": "イ",
+    "kun_yomi": "くらい",
+    "meaning": "rank, position",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "触",
+    "on_yomi": "ショク",
+    "kun_yomi": "さわ-る",
+    "meaning": "touch",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "媒",
+    "on_yomi": "バイ",
+    "kun_yomi": "-",
+    "meaning": "medium, agent",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "接",
+    "on_yomi": "セツ",
+    "kun_yomi": "つ-ぐ",
+    "meaning": "contact, join",
+    "level": "N1",
+    "difficulty": "hard"
+  },
+  {
+    "kanji": "直",
+    "on_yomi": "チョク、ジキ",
+    "kun_yomi": "なお-す",
+    "meaning": "straight, fix, direct",
+    "level": "N1",
+    "difficulty": "hard"
+  }
+]

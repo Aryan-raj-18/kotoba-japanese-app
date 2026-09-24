@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+{% block title %}Kotoba — Learn Japanese{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <div class="hero-text">
+    <p class="hero-eyebrow">はじめよう — let's begin</p>
+    <div class="jp-clock" id="jp-clock" aria-live="polite">
+      <span class="jp-clock-time" id="jp-clock-time">--:--:--</span>
+      <span class="jp-clock-date" id="jp-clock-date">----年--月--日（-）</span>
+      <span class="jp-clock-tz">日本標準時 — Japan Standard Time</span>
+    </div>
+    <h1>Three scripts.<br>One word at a time.</h1>
+    <p class="hero-lede">
+      Hiragana, katakana, and kanji, pulled from a real beginner textbook —
+      with readings, stroke counts, and everyday example sentences.
+      Search in English or Japanese, learn a chart, or jump into practice.
+    </p>
+    <form class="hero-search" action="{{ url_for('search_page') }}" method="get">
+      <input type="text" name="q" placeholder="Try &quot;mountain&quot;, 川, or &quot;kawa&quot;..." autocomplete="off">
+      <button type="submit">Search</button>
+    </form>
+  </div>
+  <div class="hero-glyphs" aria-hidden="true">
+    <span class="glyph g1">山</span>
+    <span class="glyph g2">水</span>
+    <span class="glyph g3">人</span>
+    <span class="glyph g4">心</span>
+  </div>
+</section>
+
+<section class="path-grid">
+  <a class="path-card" href="{{ url_for('hiragana') }}">
+    <span class="path-kanji">あ</span>
+    <h2>Hiragana</h2>
+    <p>The 46 base sounds of Japanese, plus dakuten and combination forms — for native words and grammar.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('katakana') }}">
+    <span class="path-kanji">ア</span>
+    <h2>Katakana</h2>
+    <p>The same sounds, angular script — used for foreign words, names, and emphasis.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('kanji_list') }}">
+    <span class="path-kanji">漢</span>
+    <h2>Kanji</h2>
+    <p>{{ kanji_count }} characters with on-yomi, kun-yomi, stroke order, and real vocabulary.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('jlpt_index') }}">
+    <span class="path-kanji">級</span>
+    <h2>JLPT N5–N1</h2>
+    <p>{{ jlpt_count }} kanji organized by JLPT level, each with its own meaning list and a 4-option practice quiz.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('everyday_words') }}">
+    <span class="path-kanji">毎</span>
+    <h2>Everyday Life</h2>
+    <p>{{ everyday_count }}+ words and phrases for daily life, sorted by category, shown in kanji, hiragana, and English together.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('verbs_list') }}">
+    <span class="path-kanji">動</span>
+    <h2>Verbs</h2>
+    <p>123 common verbs with every conjugated form — polite, te-form, plain past, negative, potential, volitional.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('conversations_list') }}">
+    <span class="path-kanji">話</span>
+    <h2>Conversations</h2>
+    <p>20 full dialogues — ordering food, job interviews, calling in sick, asking directions, and more.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('stories_list') }}">
+    <span class="path-kanji">読</span>
+    <h2>Short Stories</h2>
+    <p>Graded stories with hiragana, romaji and English on tap, comprehension questions, and a full grammar breakdown.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('flashcards') }}">
+    <span class="path-kanji">札</span>
+    <h2>Flashcards</h2>
+    <p>Flip-card decks for kanji, vocabulary, verbs, hiragana and katakana.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('write_page') }}">
+    <span class="path-kanji">書</span>
+    <h2>Writing Practice</h2>
+    <p>Trace hiragana, katakana and kanji in a practice square and have your strokes checked — plus a romaji-to-kana keyboard.</p>
+  </a>
+  <a class="path-card path-card-accent" href="{{ url_for('practice_start') }}">
+    <span class="path-kanji">練</span>
+    <h2>Practice</h2>
+    <p>Choose Easy, Medium, or Hard. Learn a set of words, then complete real sentences with them — right or wrong, you get the full breakdown.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('about_page') }}">
+    <span class="path-kanji">紹</span>
+    <h2>About Us</h2>
+    <p>Who built Kotoba, what's inside it, and how to get in touch.</p>
+  </a>
+  <a class="path-card" href="{{ url_for('feedback_page') }}">
+    <span class="path-kanji">意</span>
+    <h2>Feedback</h2>
+    <p>Something confusing, missing, or broken? Tell us what to improve next.</p>
+  </a>
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/jp-clock.js') }}"></script>
+{% endblock %}
